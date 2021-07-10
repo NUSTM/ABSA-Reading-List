@@ -1,12 +1,9 @@
-Aspect-Based Sentiment Analysis Reading List
+## Aspect-Based Sentiment Analysis Reading List
 
 Maintained by Hongjie Cai, Jianfei Yu, and Rui Xia, Nanjing Univerisity of Science and Technology.
 
 Last updated on 2021.7.9.
 
-
-
-## Papers
 
 
 ### Aspect-Oriented Sentiment Classification
