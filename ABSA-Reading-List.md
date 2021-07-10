@@ -1,9 +1,7 @@
-
+Maintained by Hongjie Cai, Jianfei Yu, and Rui Xia, Nanjing Univerisity of Science and Technology
 Last updated on 2021.7.9.
 
-- [ ] 更新ACL 2021, IJCAI 2021文献
-- [x] 更新AAAI 2021, NAACL 2021, EMNLP 2020文献 2021.6.11
-- [x] 更新Aspect-Opinion Co-Extraction文献 2021.6.10
+
 
 ## Papers
 
@@ -243,4 +241,4 @@ Last updated on 2021.7.9.
 
 ### Aspect-Category-Opinion-Sentiment Quadruple Extraction
 
-1. Hongjie Cai, Rui Xia, Jianfei Yu. **Aspect-Category-Opinion-Sentiment Quadruple Extraction with Implicit Aspects and Opinions**. ACL 2021. 
+1. Hongjie Cai, Rui Xia, Jianfei Yu. **Aspect-Category-Opinion-Sentiment Quadruple Extraction with Implicit Aspects and Opinions**. ACL 2021. [paper and datasets coming soon]
