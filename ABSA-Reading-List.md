@@ -1,4 +1,4 @@
-Aspect-based Sentiment Analysis Reading List
+Aspect-Based Sentiment Analysis Reading List
 
 Maintained by Hongjie Cai, Jianfei Yu, and Rui Xia, Nanjing Univerisity of Science and Technology.
 
