@@ -1,6 +1,8 @@
 # Cross-domain ABSA Reading-list
 
-Maintained by Jianfei Yu, ChengGong Gong
+Maintained by Jianfei Yu and Rui Xia, Nanjing Univerisity of Science and Technology.
+
+Last updated on 2021.7.9.
 
 ## Papers
 
