@@ -1,4 +1,4 @@
-# Cross-domain ABSA Reading-list
+# Cross-Domain ABSA Reading-list
 
 Maintained by Jianfei Yu and Rui Xia, Nanjing Univerisity of Science and Technology.
 
