@@ -2,7 +2,7 @@
 
 Maintained by Hongjie Cai, Jianfei Yu, and Rui Xia, Nanjing Univerisity of Science and Technology.
 
-Last updated on 2021.7.9.
+Last updated on 2021.7.20.
 
 ## Papers
 
@@ -92,6 +92,7 @@ Last updated on 2021.7.9.
 
 1. Duyu Tang, Bing Qin, Xiaocheng Feng and Ting Liu. **Effective LSTMs for Target-Dependent Sentiment Classification with Long Short Term Memory**. COLING 2016. [[paper]](https://www.aclweb.org/anthology/C16-1311.pdf)
 
+1. Long Jiang, Mo Yu, Ming Zhou, Xiaohua Liu, Tiejun Zhao. **Target-dependent Twitter Sentiment Classification**. ACL 2011. [[paper]](https://aclanthology.org/P11-1016.pdf)
 
 ### Aspect Extraction
 
