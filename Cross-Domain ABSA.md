@@ -6,11 +6,11 @@ Last updated on 2021.7.19.
 
 ## Papers
 
-### Cross-Domain Aspect Extraction 
+### Cross-Domain/Lingual Aspect Extraction 
 1. Zhuang Chen and Tieyun Qian. **Bridge-Based Active Domain Adaptation for Aspect Term Extraction**. ACL 2021.
 1. Tao Liang, Wenya Wang and Fengmao Lv. **Weakly Supervised Domain Adaptation for Aspect Extraction via Multi-level Interaction Transfer**. IEEE TNNLS 2021. [[paper]](https://arxiv.org/abs/2006.09235)
 1. Wenya Wang, Sinno Jialin Pan. **Transition-based Adversarial Network for Cross-lingual Aspect Extraction**. IJCAI 2018. [[paper]](https://www.ijcai.org/Proceedings/2018/0622.pdf)
-1. Ying Ding, Jianfei Yu, and Jing Jiang. **Recurrent neural networks with auxiliary labels for cross domain opinion target extraction**. AAAI 2017. [[paper]](https://www.semanticscholar.org/paper/Recurrent-Neural-Networks-with-Auxiliary-Labels-for-Ding-Yu/d08341562091ac6777f613a68a0d59eb600b5c57)
+1. Ying Ding, Jianfei Yu, and Jing Jiang. **Recurrent Neural Networks with Auxiliary Labels for Cross Domain Opinion Target Extraction**. AAAI 2017. [[paper]](https://www.semanticscholar.org/paper/Recurrent-Neural-Networks-with-Auxiliary-Labels-for-Ding-Yu/d08341562091ac6777f613a68a0d59eb600b5c57)
 
 
 ### Cross-Domain Aspect-Opinion Co-Extraction
