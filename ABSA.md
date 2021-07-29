@@ -78,6 +78,8 @@ Last updated on 2021.7.20.
 
 1. Xin Li, Lidong Bing, Wai Lam and Bei Sh. **Transformation Networks for Target-Oriented Sentiment Classification**. ACL 2018. [[paper]](https://www.aclweb.org/anthology/P18-1087.pdf)
 
+1. Binxuan Huang, Kathleen Carley. **Parameterized Convolutional Neural Networks for Aspect Level Sentiment Classification**. EMNLP 2018. [[paper]](https://aclanthology.org/D18-1136/)
+
 1. Shiliang Zheng and Rui Xia. **Left-Center-Right Separated Neural Network for Aspect-based Sentiment Analysis with Rotatory Attention**. Arxiv 2018. [[paper]](https://arxiv.org/abs/1802.00892)
 
 1. Peng Chen, Zhongqian Sun, Lidong Bing and Wei Yang. **Recurrent Attention Network on Memory for Aspect Sentiment Analysis**. EMNLP 2017. [[paper]](https://www.aclweb.org/anthology/D17-1047.pdf)
@@ -226,15 +228,19 @@ Last updated on 2021.7.20.
 
 ### Aspect-Opinion-Sentiment Triple Extraction
 
-1. Hang Yan, Junqi Dai, Tuo Ji, Xipeng Qiu and Zheng Zhang. **A Unified Generative Framework for Aspect-Based Sentiment Analysis**. ACL 2021. [[paper]](https://arxiv.org/pdf/2106.04300)
+1. Lu Xu, Yew Ken Chia, Lidong Bing. **Learning Span-Level Interactions for Aspect Sentiment Triplet Extraction**. ACL 2021. [[paper]](https://aclanthology.org/2021.acl-long.367/) [[code]](https://github.com/chiayewken/Span-ASTE)
+
+1. Hang Yan, Junqi Dai, Tuo Ji, Xipeng Qiu and Zheng Zhang. **A Unified Generative Framework for Aspect-Based Sentiment Analysis**. ACL 2021. [[paper]](https://aclanthology.org/2021.acl-long.188/) [[code]](https://github.com/yhcc/BARTABSA)
 
 1. Shaowei Chen, Yu Wang, Jie Liu, Yuelin Wang. **Bidirectional Machine Reading Comprehension for Aspect Sentiment Triplet Extraction**. AAAI 2021. [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/17500/17307)
 
 1. Yue Mao, Yi Shen, Chao Yu, Longjun Cai. **A Joint Training Dual-MRC Framework for Aspect Based Sentiment Analysis**. AAAI 2021. [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/17597/17404)
 
+1. Lu Xu, Hao Li, Wei Lu, Lidong Bing. **Position-Aware Tagging for Aspect Sentiment Triplet Extraction**. EMNLP 2020. [[paper]](https://www.aclweb.org/anthology/2020.emnlp-main.183.pdf)
+
 1. Zhen Wu, Chengcan Ying, Fei Zhao, Zhifang Fan, Xinyu Dai, Rui Xia. **Grid Tagging Scheme for End-to-End Fine-grained Opinion Extraction**. EMNLP 2020, Findings. [[paper]](https://www.aclweb.org/anthology/2020.findings-emnlp.234.pdf) [[code]](https://github.com/NJUNLP/GTS)
 
-1. Lu Xu, Hao Li, Wei Lu, Lidong Bing. **Position-Aware Tagging for Aspect Sentiment Triplet Extraction**. EMNLP 2020. [[paper]](https://www.aclweb.org/anthology/2020.emnlp-main.183.pdf)
+1. Chen Zhang, Qiuchi Li, Dawei Song, Benyou Wang. **A Multi-task Learning Framework for Opinion Triplet Extraction**. EMNLP 2020, Findings. [[paper]](https://aclanthology.org/2020.findings-emnlp.72) [[code]](https://github.com/GeneZC/OTE-MTL)
 
 1. Haiyun Peng, Lu Xu, Lidong Bing, Wei Lu, Fei Huang. **Knowing What, How and Why: A Near Complete Solution for Aspect-based Sentiment Analysis**. AAAI 2020. [[paper]](https://ojs.aaai.org/index.php/AAAI/article/download/6383/6239) [[data]](https://github.com/xuuuluuu/SemEval-Triplet-data)
 
