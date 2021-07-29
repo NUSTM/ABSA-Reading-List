@@ -228,6 +228,8 @@ Last updated on 2021.7.20.
 
 ### Aspect-Opinion-Sentiment Triple Extraction
 
+1. Wenxuan Zhang, Xin Li, Yang Deng, Lidong Bing, Wai Lam. **Towards Generative Aspect-Based Sentiment Analysis**. ACL 2021. [[paper]](https://aclanthology.org/2021.acl-short.64/) [[code]](https://github.com/IsakZhang/Generative-ABSA)
+
 1. Lu Xu, Yew Ken Chia, Lidong Bing. **Learning Span-Level Interactions for Aspect Sentiment Triplet Extraction**. ACL 2021. [[paper]](https://aclanthology.org/2021.acl-long.367/) [[code]](https://github.com/chiayewken/Span-ASTE)
 
 1. Hang Yan, Junqi Dai, Tuo Ji, Xipeng Qiu and Zheng Zhang. **A Unified Generative Framework for Aspect-Based Sentiment Analysis**. ACL 2021. [[paper]](https://aclanthology.org/2021.acl-long.188/) [[code]](https://github.com/yhcc/BARTABSA)
