@@ -94,6 +94,8 @@ Last updated on 2021.7.20.
 
 1. Duyu Tang, Bing Qin, Xiaocheng Feng and Ting Liu. **Effective LSTMs for Target-Dependent Sentiment Classification with Long Short Term Memory**. COLING 2016. [[paper]](https://www.aclweb.org/anthology/C16-1311.pdf)
 
+1. Li Dong, Furu Wei, Chuanqi Tan, Duyu Tang, Ming Zhou, Ke Xu. **Adaptive Recursive Neural Network for Target-dependent Twitter Sentiment Classification**. ACL 2014. [[paper]](https://aclanthology.org/P14-2009/)[[dataset]](https://docs.google.com/forms/d/e/1FAIpQLSd6HhEitpzv-vpdrB63Jbx-fYWohnOZRCUb0ibKjpO21Q_tIQ/viewform)
+
 1. Long Jiang, Mo Yu, Ming Zhou, Xiaohua Liu, Tiejun Zhao. **Target-dependent Twitter Sentiment Classification**. ACL 2011. [[paper]](https://aclanthology.org/P11-1016.pdf)
 
 ### Aspect Extraction
