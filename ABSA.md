@@ -126,8 +126,6 @@ Last updated on 2021.7.20.
 
 1. Yichun Yin, Furu Wei, Li Dong, Kaimeng Xu, Ming Zhang, Ming Zhou. **Unsupervised Word and Dependency Path Embeddings for Aspect Term Extraction**. IJCAI 2016. [[paper]](https://www.ijcai.org/Proceedings/16/Papers/423.pdf)
 
-1. Pengfei Liu, Shafiq Joty, Helen Meng. **Fine-grained Opinion Mining with Recurrent Neural Networks and Word Embeddings**. EMNLP 2015. [[paper]](https://aclanthology.org/D15-1168.pdf)
-
 1. Fangtao Li, Chao Han, Minlie Huang, Xiaoyan Zhu, Ying-Ju Xia, Shu Zhang, Hao Yu. **Structure-Aware Review Mining and Summarization**. COLING 2010. [[paper]](https://aclanthology.org/C10-1074.pdf)
 
 1. Wei Jin, Hung Hay Ho. **A Novel Lexicalized HMM-based Learning Framework for Web Opinion Mining**. ICML 2009. [[paper]](http://people.cs.pitt.edu/~huynv/research/aspect-sentiment/A%20novel%20lexicalized%20HMM-based%20learning%20framework%20for%20web%20opinion%20mining.pdf)
@@ -146,6 +144,7 @@ Last updated on 2021.7.20.
 
 1. Wenya Wang, Sinno Jialin Pan, Daniel Dahlmeier, Xiaokui Xiao. **Recursive Neural Conditional Random Fields for Aspect-based Sentiment Analysis**. EMNLP 2016. [[paper]](https://www.aclweb.org/anthology/D16-1059.pdf)
 
+1. Pengfei Liu, Shafiq Joty, Helen Meng. **Fine-grained Opinion Mining with Recurrent Neural Networks and Word Embeddings**. EMNLP 2015. [[paper]](https://aclanthology.org/D15-1168.pdf)
 
 ### Aspect-Oriented Opinion Extraction
 
