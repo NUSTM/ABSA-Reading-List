@@ -3,12 +3,12 @@ This directory contains the reading list of aspect-based sentiment analysis main
 ## [Content](#content)
 
 <table>
-<tr><td colspan="1"><a href="#In-Domain ABSA">1. In-Domain ABSA</a></td></tr> 
-<tr><td colspan="1"><a href="#Cross-Domain ABSA">2. Cross-Domain ABSA</a></td></tr> 
-<tr><td colspan="1"><a href="#Multi-Modal ABSA">3. Multi-Modal ABSA</a></td></tr> 
+<tr><td><a href="#In-Domain ABSA">1. In-Domain ABSA</a></td></tr> 
+<tr><td><a href="#Cross-Domain ABSA">2. Cross-Domain ABSA</a></td></tr> 
+<tr><td><a href="#Multi-Modal ABSA">3. Multi-Modal ABSA</a></td></tr> 
 </table>
   
- ## [In-Domain ABSA](#content)
+ ## [In-Domain ABSA Papers](#content)
  ### Aspect-Oriented Sentiment Classification
 
 1. Yuanhe Tian, Guimin Chen, Yan Song. **Aspect-based Sentiment Analysis with Type-aware Graph Convolutional Networks and Layer Ensemble**. NAACL 2021. [[paper]](https://www.aclweb.org/anthology/2021.naacl-main.231.pdf)
