@@ -4,8 +4,8 @@ This directory contains the reading list of aspect-based sentiment analysis main
 
 <table>
 <tr><td><a href="#In-Domain ABSA">1. In-Domain ABSA</a></td></tr> 
-<tr><td><a href="#Cross-Domain-ABSA">2. Cross-Domain ABSA</a></td></tr> 
-<tr><td><a href="#Multi-Modal-ABSA">3. Multi-Modal ABSA</a></td></tr> 
+<tr><td><a href="#Cross-Domain ABSA">2. Cross-Domain ABSA</a></td></tr> 
+<tr><td><a href="#Multi-Modal ABSA">3. Multi-Modal ABSA</a></td></tr> 
 </table>
   
  ## [In-Domain ABSA](#content)
@@ -257,7 +257,7 @@ This directory contains the reading list of aspect-based sentiment analysis main
 1. Hongjie Cai, Rui Xia, Jianfei Yu. **Aspect-Category-Opinion-Sentiment Quadruple Extraction with Implicit Aspects and Opinions**. ACL 2021. [[paper]](https://aclanthology.org/2021.acl-long.29.pdf) [[code]](https://github.com/NUSTM/ACOS)
 
  
- ## [Cross-Domain ABSA Papers](#content)
+ ## [Cross-Domain ABSA](#content)
  
  ### Cross-Domain/Lingual Aspect Extraction 
 1. Zhuang Chen and Tieyun Qian. **Bridge-Based Active Domain Adaptation for Aspect Term Extraction**. ACL 2021. [[paper]](https://aclanthology.org/2021.acl-long.27.pdf)
@@ -285,7 +285,7 @@ This directory contains the reading list of aspect-based sentiment analysis main
 1. Chenggong Gong, Jianfei Yu, and Rui Xia. **Unified Feature and Instance Based Domain Adaptation for Aspect-Based Sentiment Analysis**. EMNLP 2020. [[paper]](https://www.aclweb.org/anthology/2020.emnlp-main.572.pdf)
 1. Zheng Li, Xin Li, Ying Wei, Lidong Bing, Yu Zhang and Qiang Yang. **Transferable End-to-End Aspect-based Sentiment Analysis with Selective Adversarial Learning**. EMNLP 2019. [[paper]](https://arxiv.org/abs/1910.14192) 
  
- ## [Multi-Modal ABSA Papers](#content)
+ ## [Multi-Modal ABSA](#content)
  
 ### Multi-Modal Aspect Extraction 
 1. Jianfei Yu, Jing Jiang, Li Yang, and Rui Xia. **Improving Multimodal Named Entity Recognition via Entity Span Detection with Unified Multimodal Transformer**. ACL 2020. [[paper]](https://aclanthology.org/2020.acl-main.306.pdf)
