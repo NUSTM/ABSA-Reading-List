@@ -3,9 +3,9 @@ This directory contains the reading list of aspect-based sentiment analysis main
 ## [Content](#content)
 
 <table>
-<tr><td><a href="#In-Domain ABSA">1. In-Domain ABSA</a></td></tr> 
-<tr><td><a href="#Cross-Domain ABSA">2. Cross-Domain ABSA</a></td></tr> 
-<tr><td><a href="#Multi-Modal ABSA">3. Multi-Modal ABSA</a></td></tr> 
+<tr><td><a href="#in-domain-absa">1. In-Domain ABSA</a></td></tr> 
+<tr><td><a href="#cross-domain-absa">2. Cross-Domain ABSA</a></td></tr> 
+<tr><td><a href="#multi-modal-absa">3. Multi-Modal ABSA</a></td></tr> 
 </table>
   
  ## [In-Domain ABSA](#content)
