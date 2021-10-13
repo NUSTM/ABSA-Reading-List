@@ -41,17 +41,24 @@ This directory contains the reading list of aspect-based sentiment analysis main
 <td>&emsp;<a href="#cross-domain-aspect-opinion-co-extraction">2.2 Cross-Domain Aspect-Opinion Co-Extraction</a></td>
 </tr>
 <tr>
-<td>&emsp;<a href="#cross-domain-aspect-oriented-sentiment-classification">2.3 Cross-Domain Aspect-Oriented Sentiment Classification</a></td>
+<td>
+  &emsp;<a href="#cross-domain-aspect-oriented-sentiment-classification">2.3 Cross-Domain Aspect-Oriented Sentiment</a>
+  <br>&emsp;<a href="#cross-domain-aspect-oriented-sentiment-classification">Classification</a> 
+</td>
 <td>&emsp;<a href="#cross-domain-aspect-sentiment-pair-extraction">2.4 Cross-Domain Aspect-Sentiment Pair Extraction</a></td>
 </tr>
 
 <tr><td colspan="2"><a href="#multi-modal-absa">3. Multi-Modal ABSA</a></td></tr>
 <tr>
 <td>&emsp;<a href="#multi-modal-aspect-extraction">3.1 Multi-Modal Aspect Extraction</a></td>
-<td>&emsp;<a href="#multi-modal-category-oriented-sentiment-classification">3.2 Multi-Modal Category-Oriented Sentiment Classification</a></td>
+<td>&emsp;<a href="#multi-modal-category-oriented-sentiment-classification">3.2 Multi-Modal Category-Oriented Sentiment</a>
+  <br>&emsp;<a href="#multi-modal-category-oriented-sentiment-classification">Classification</a>
+  </td>
 </tr>
 <tr>
-<td>&emsp;<a href="#multi-modal-aspect-oriented-sentiment-classification">3.3 Multi-Modal Aspect-Oriented Sentiment Classification</a></td>
+<td>&emsp;<a href="#multi-modal-aspect-oriented-sentiment-classification">3.3 Multi-Modal Aspect-Oriented Sentiment</a>
+  <br>&emsp;<a href="#multi-modal-aspect-oriented-sentiment-classification">Classification</a>
+  </td>
 <td>&emsp;<a href="#"></a></td>
 </tr>
 </table>
