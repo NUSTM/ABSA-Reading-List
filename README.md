@@ -30,7 +30,7 @@ This directory contains the reading list of aspect-based sentiment analysis main
 </tr>
   
 <tr>
-<td>&emsp;<a href="#aspect-category-opinion-sentiment-quadruple-extraction">1.11 Aspect-Category-Opinion-Sentiment Quadruple Extraction</a></td>
+<td width="500">&emsp;<a href="#aspect-category-opinion-sentiment-quadruple-extraction">1.11 Aspect-Category-Opinion-Sentiment Quadruple Extraction</a></td>
 </tr>
 
 <tr><td colspan="2"><a  href="#cross-domain-absa">2. Cross-Domain ABSA</a></td></tr>
