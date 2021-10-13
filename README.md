@@ -31,12 +31,13 @@ This directory contains the reading list of aspect-based sentiment analysis main
   
 <tr>
 <td width="500">&emsp;<a href="#aspect-category-opinion-sentiment-quadruple-extraction">1.11 Aspect-Category-Opinion-Sentiment Quadruple Extraction</a></td>
+<td></td>
 </tr>
 
 <tr><td colspan="2"><a  href="#cross-domain-absa">2. Cross-Domain ABSA</a></td></tr>
 <tr>
 <td>&emsp;<a href="#cross-domainlingual-aspect-extraction">2.1 Cross-Domain/Lingual Aspect Extraction</a></td>
-<td>&emsp;<a href="#cross-domain-aspect-opinion-co-extraction">2.2 Cross-Domain Aspect-Opinion Co-Extraction</a></td>
+<td  width="450">&emsp;<a href="#cross-domain-aspect-opinion-co-extraction">2.2 Cross-Domain Aspect-Opinion Co-Extraction</a></td>
 </tr>
 <tr>
 <td>&emsp;<a href="#cross-domain-aspect-oriented-sentiment-classification">2.3 Cross-Domain Aspect-Oriented Sentiment Classification</a></td>
