@@ -30,7 +30,9 @@ This directory contains the reading list of aspect-based sentiment analysis main
 </tr>
   
 <tr>
-<td> <p align="justify">&emsp;<a href="#aspect-category-opinion-sentiment-quadruple-extraction">1.11 Aspect-Category-Opinion-Sentiment Quadruple Extraction</a> </p> </td>
+<td> 
+  <p>&emsp;<a href="#aspect-category-opinion-sentiment-quadruple-extraction">1.11 Aspect-Category-Opinion-Sentiment Quadruple</a><br>&emsp;<a href="#aspect-category-opinion-sentiment-quadruple-extraction">Extraction</a></p> 
+</td>
 <td></td>
 </tr>
 
