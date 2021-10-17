@@ -3,7 +3,7 @@ This directory contains the reading list of aspect-based sentiment analysis main
 ## [Content](#content)
 
 <table>
-<tr><td colspan="2"><a  href="#in-domain-absa">1. In-Domain ABSA</a></td></tr>
+<tr><td colspan="2"><a  href="#absa">1. ABSA</a></td></tr>
 <tr>
   <td>&emsp;<a href="#aspect-oriented-sentiment-classification">1.1 Aspect-Oriented Sentiment Classification</a></td>
   <td>&emsp;<a href="#aspect-extraction">1.2 Aspect Extraction</a></td> 
@@ -63,7 +63,7 @@ This directory contains the reading list of aspect-based sentiment analysis main
 </tr>
 </table>
 
- ## [In-Domain ABSA](#content)
+ ## [ABSA](#content)
  ### [Aspect-Oriented Sentiment Classification](#content)
 
 1. Yuanhe Tian, Guimin Chen, Yan Song. **Aspect-based Sentiment Analysis with Type-aware Graph Convolutional Networks and Layer Ensemble**. NAACL 2021. [[paper]](https://www.aclweb.org/anthology/2021.naacl-main.231.pdf)
