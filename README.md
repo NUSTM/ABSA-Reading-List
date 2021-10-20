@@ -1,57 +1,76 @@
-This directory contains the reading list of aspect-based sentiment analysis maintained by NUSTM Group.
+Reading List of aspect-based sentiment analysis (ABSA), Cross-Domain ABSA, and Multi-Modal ABSA, maintained by Rui Xia, Jianfei Yu, and Hongjie Cai from Text Mining Group of Nanjing University of Science & Technology (NUSTM).
+
+<!-- This directory contains the aspect-based sentiment analysis reading list .
+maintained by Rui Xia, Jianfei Yu, and Hongjie Cai from Text Mining Group of Nanjing University of Science & Technology (NUSTM) -->
 
 ## [Content](#content)
 
 <table>
-<tr><td colspan="2"><a  href="#absa">1. ABSA</a></td></tr>
+<tr><td ><a  href="#absa">1. ABSA</a></td></tr>
 <tr>
   <td>&emsp;<a href="#aspect-oriented-sentiment-classification">1.1 Aspect-Oriented Sentiment Classification</a></td>
+</tr>
+<tr>
   <td>&emsp;<a href="#aspect-extraction">1.2 Aspect Extraction</a></td> 
 </tr>
     
 <tr>
 <td>&emsp;<a href="#aspect-opinion-co-extraction">1.3 Aspect-Opinion Co-Extraction</a></td>
-<td>&emsp;<a href="#aspect-oriented-opinion-extraction">1.4 Aspect-Oriented Opinion Extraction</a></td>
+</tr>
+<tr>
+  <td>&emsp;<a href="#aspect-oriented-opinion-extraction">1.4 Aspect-Oriented Opinion Extraction</a></td>
 </tr>
 
 <tr>
 <td>&emsp;<a href="#aspect-opinion-pair-extraction">1.5 Aspect-Opinion Pair Extraction</a></td>
-<td>&emsp;<a href="#aspect-sentiment-pair-extraction">1.6 Aspect-Sentiment Pair Extraction</a></td>
+</tr>
+<tr>
+  <td>&emsp;<a href="#aspect-sentiment-pair-extraction">1.6 Aspect-Sentiment Pair Extraction</a></td>
 </tr>
   
 <tr>
 <td>&emsp;<a href="#category-oriented-sentiment-classification">1.7 Category-Oriented Sentiment Classification</a></td>
-<td>&emsp;<a href="#category-sentiment-hierarchical-classification">1.8 Category-Sentiment Hierarchical Classification</a></td>
+</tr>
+<tr>
+  <td>&emsp;<a href="#category-sentiment-hierarchical-classification">1.8 Category-Sentiment Hierarchical Classification</a></td>
 </tr>
   
 <tr>
 <td>&emsp;<a href="#aspect-category-sentiment-triple-extraction">1.9 Aspect-Category-Sentiment Triple Extraction</a></td>
- <td>&emsp;<a href="#aspect-opinion-sentiment-triple-extraction">1.10 Aspect-Opinion-Sentiment Triple Extraction</a></td>
+ </tr>
+<tr>
+  <td>&emsp;<a href="#aspect-opinion-sentiment-triple-extraction">1.10 Aspect-Opinion-Sentiment Triple Extraction</a></td>
 </tr>
   
 <tr>
 <td> 
   &emsp;<a href="#aspect-category-opinion-sentiment-quadruple-extraction">1.11 Aspect-Category-Opinion-Sentiment Quadruple</a><br>&emsp;<a href="#aspect-category-opinion-sentiment-quadruple-extraction">Extraction</a> </td>
-<td></td>
-</tr>
+ </tr>
+
 
 <tr><td colspan="2"><a  href="#cross-domain-absa">2. Cross-Domain ABSA</a></td></tr>
 <tr>
 <td>&emsp;<a href="#cross-domainlingual-aspect-extraction">2.1 Cross-Domain/Lingual Aspect Extraction</a></td>
-<td>&emsp;<a href="#cross-domain-aspect-opinion-co-extraction">2.2 Cross-Domain Aspect-Opinion Co-Extraction</a></td>
+</tr>
+<tr>
+  <td>&emsp;<a href="#cross-domain-aspect-opinion-co-extraction">2.2 Cross-Domain Aspect-Opinion Co-Extraction</a></td>
 </tr>
 <tr>
 <td>
   &emsp;<a href="#cross-domain-aspect-oriented-sentiment-classification">2.3 Cross-Domain Aspect-Oriented Sentiment</a>
   <br>&emsp;<a href="#cross-domain-aspect-oriented-sentiment-classification">Classification</a> 
 </td>
+</tr>
+<tr>
 <td>&emsp;<a href="#cross-domain-aspect-sentiment-pair-extraction">2.4 Cross-Domain Aspect-Sentiment Pair Extraction</a></td>
 </tr>
 
 <tr><td colspan="2"><a href="#multi-modal-absa">3. Multi-Modal ABSA</a></td></tr>
 <tr>
 <td>&emsp;<a href="#multi-modal-aspect-extraction">3.1 Multi-Modal Aspect Extraction</a></td>
-<td>&emsp;<a href="#multi-modal-category-oriented-sentiment-classification">3.2 Multi-Modal Category-Oriented Sentiment</a>
+</tr>
+<tr>
+  <td>&emsp;<a href="#multi-modal-category-oriented-sentiment-classification">3.2 Multi-Modal Category-Oriented Sentiment</a>
   <br>&emsp;<a href="#multi-modal-category-oriented-sentiment-classification">Classification</a>
   </td>
 </tr>
@@ -59,8 +78,10 @@ This directory contains the reading list of aspect-based sentiment analysis main
 <td>&emsp;<a href="#multi-modal-aspect-oriented-sentiment-classification">3.3 Multi-Modal Aspect-Oriented Sentiment</a>
   <br>&emsp;<a href="#multi-modal-aspect-oriented-sentiment-classification">Classification</a>
   </td>
+ </tr>
+<!-- <tr>
 <td>&emsp;<a href="#"></a></td>
-</tr>
+</tr> -->
 </table>
 
  ## [ABSA](#content)
