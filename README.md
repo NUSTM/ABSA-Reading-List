@@ -378,3 +378,6 @@ maintained by Rui Xia, Jianfei Yu, and Hongjie Cai from Text Mining Group of Nan
 1. Zaid Khan and Yun Fu. **Exploiting BERT For Multimodal Target Sentiment Classification Through Input Space Translation**. ACM MM 2021 [[paper]](https://arxiv.org/pdf/2108.01682.pdf)
 1. Jianfei Yu, Jing Jiang and Rui Xia. **Entity-Sensitive Attention and Fusion Network for Entity-Level Multimodal Sentiment Classification**. IEEE/ACM TASLP 2020. [[paper]](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=6507&context=sis_research)
 1. Jianfei Yu and Jing Jiang. **Adapting BERT for Target-Oriented Multimodal Sentiment Classification**. IJCAI 2019. [[paper]](https://www.ijcai.org/Proceedings/2019/0751.pdf)
+
+### [Multi-Modal Aspect-Sentiment Pair Extraction](#content)
+1. Xincheng Ju,  Dong Zhang,  Rong Xiao,  Junhui Li, Shoushan Li, Min Zhang, and Guodong Zhou. **Joint multi-modal aspect-sentiment analysis with auxiliary cross-modal relation  detection**. EMNLP 2021 [[paper]](https://aclanthology.org/2021.emnlp-main.360.pdf)
