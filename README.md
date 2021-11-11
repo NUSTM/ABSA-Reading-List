@@ -50,7 +50,7 @@ maintained by Rui Xia, Jianfei Yu, and Hongjie Cai from Text Mining Group of Nan
 
 <tr><td colspan="2"><a  href="#cross-domain-absa">2. Cross-Domain ABSA</a></td></tr>
 <tr>
-<td>&emsp;<a href="#cross-domainlingual-aspect-extraction">2.1 Cross-Domain/Lingual Aspect Extraction</a></td>
+<td>&emsp;<a href="#cross-domain-aspect-extraction">2.1 Cross-Domain Aspect Extraction</a></td>
 </tr>
 <tr>
   <td>&emsp;<a href="#cross-domain-aspect-opinion-co-extraction">2.2 Cross-Domain Aspect-Opinion Co-Extraction</a></td>
@@ -338,10 +338,9 @@ maintained by Rui Xia, Jianfei Yu, and Hongjie Cai from Text Mining Group of Nan
  
  ## [Cross-Domain ABSA](#content)
  
- ### [Cross-Domain/Lingual Aspect Extraction](#content) 
+ ### [Cross-Domain Aspect Extraction](#content) 
 1. Zhuang Chen and Tieyun Qian. **Bridge-Based Active Domain Adaptation for Aspect Term Extraction**. ACL 2021. [[paper]](https://aclanthology.org/2021.acl-long.27.pdf)
 1. Tao Liang, Wenya Wang and Fengmao Lv. **Weakly Supervised Domain Adaptation for Aspect Extraction via Multi-level Interaction Transfer**. IEEE TNNLS 2021. [[paper]](https://arxiv.org/abs/2006.09235)
-1. Wenya Wang, Sinno Jialin Pan. **Transition-based Adversarial Network for Cross-lingual Aspect Extraction**. IJCAI 2018. [[paper]](https://www.ijcai.org/Proceedings/2018/0622.pdf)
 1. Ying Ding, Jianfei Yu, and Jing Jiang. **Recurrent Neural Networks with Auxiliary Labels for Cross Domain Opinion Target Extraction**. AAAI 2017. [[paper]](https://www.semanticscholar.org/paper/Recurrent-Neural-Networks-with-Auxiliary-Labels-for-Ding-Yu/d08341562091ac6777f613a68a0d59eb600b5c57)
 
 
