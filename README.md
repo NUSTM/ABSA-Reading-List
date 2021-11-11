@@ -347,7 +347,7 @@ maintained by Rui Xia, Jianfei Yu, and Hongjie Cai from Text Mining Group of Nan
 ### [Cross-Domain Aspect-Opinion Co-Extraction](#content) 
 1. Oren Pereg, Daniel Korat, and Moshe Wasserblat. **Syntactically Aware Cross-Domain Aspect and Opinion Terms Extraction**. COLING 2020. [[paper]](https://aclanthology.org/2020.coling-main.158.pdf)
 1. Wenya Wang and Sinno Jialin Pan. **Syntactically-Meaningful and Transferable Recursive Neural Networks for Aspect and Opinion Extraction**. Computational Linguistics (CL) 2019. [[paper]](https://aclanthology.org/J19-4004.pdf)
-1. Wenya Wang and Sinno Jialin Pan. **Transferable Interactive Memory Network for Domain Adaptation in Fine-grained Opinion Extraction**. AAAI 2019. [[paper]](https://ojs.aaai.org/index.php/AAAI/article/download/10974/10833)
+1. Wenya Wang and Sinno Jialin Pan. **Transferable Interactive Memory Network for Domain Adaptation in Fine-grained Opinion Extraction**. AAAI 2019. [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/4703/4581)
 1. Wenya Wang and Sinno Jialin Pan.  **Recursive Neural Structural Correspondence Network for Cross-Domain Aspect and Opinion Co-Extraction**. ACL 2018. [[paper]](https://www.aclweb.org/anthology/P18-1202.pdf)
 
 
