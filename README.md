@@ -79,6 +79,11 @@ maintained by Rui Xia, Jianfei Yu, and Hongjie Cai from Text Mining Group of Nan
   <br>&emsp;<a href="#multi-modal-aspect-oriented-sentiment-classification">Classification</a>
   </td>
  </tr>
+<tr>
+<td>&emsp;<a href="#multi-modal-aspect-oriented-sentiment-classification">3.4 Multi-Modal Aspect-Sentiment Pair </a>
+  <br>&emsp;<a href="#multi-modal-aspect-oriented-sentiment-classification">Extraction</a>
+  </td>
+ </tr>
 <!-- <tr>
 <td>&emsp;<a href="#"></a></td>
 </tr> -->
