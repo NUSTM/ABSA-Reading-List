@@ -284,6 +284,7 @@ maintained by Rui Xia, Jianfei Yu, and Hongjie Cai from Text Mining Group of Nan
  ## 2. Cross-Domain ABSA
  
  ### 2.1 Cross-Domain Aspect Extraction
+1. Lekhtman, Entony and Ziser, Yftah and Reichart, Roi. **DILBERT: Customized Pre-Training for Domain Adaptation with Category Shift, with an Application to Aspect Extraction**. EMNLP 2021.[[paper]](https://aclanthology.org/2021.emnlp-main.20.pdf)
 1. Zhuang Chen and Tieyun Qian. **Bridge-Based Active Domain Adaptation for Aspect Term Extraction**. ACL 2021. [[paper]](https://aclanthology.org/2021.acl-long.27.pdf)
 1. Tao Liang, Wenya Wang and Fengmao Lv. **Weakly Supervised Domain Adaptation for Aspect Extraction via Multi-level Interaction Transfer**. IEEE TNNLS 2021. [[paper]](https://arxiv.org/abs/2006.09235)
 1. Ying Ding, Jianfei Yu, and Jing Jiang. **Recurrent Neural Networks with Auxiliary Labels for Cross Domain Opinion Target Extraction**. AAAI 2017. [[paper]](https://www.semanticscholar.org/paper/Recurrent-Neural-Networks-with-Auxiliary-Labels-for-Ding-Yu/d08341562091ac6777f613a68a0d59eb600b5c57)
