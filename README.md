@@ -312,6 +312,8 @@ maintained by Rui Xia, Jianfei Yu, and Hongjie Cai from Text Mining Group of Nan
  ## 3. Multi-Modal ABSA
  
 ### 3.1 Multi-Modal Aspect Extraction
+1. Dong Zhang, Suzhong Wei, Shoushan Li, Hanqian Wu, Qiaoming Zhu, and Guodong Zhou. **Multi-modal Graph Fusion for Named Entity Recognition with Targeted Visual Guidance**. AAAI 2021. [[paper]](https://www.aaai.org/AAAI21Papers/AAAI-2753.ZhangD.pdf)
+2. Lin Sun, Jiquan Wang, Kai Zhang, Yindu Su and Fangsheng Weng. **RpBERT: A Text-image Relation Propagation-based BERT Model for Multimodal NER**. AAAI 2021. [[paper]](https://www.aaai.org/AAAI21Papers/AAAI-761.SunL.pdf)
 1. Jianfei Yu, Jing Jiang, Li Yang, and Rui Xia. **Improving Multimodal Named Entity Recognition via Entity Span Detection with Unified Multimodal Transformer**. ACL 2020. [[paper]](https://aclanthology.org/2020.acl-main.306.pdf)
 1. Edison Marrese-Taylor, Cristian Rodriguez-Opazo, Jorge A. Balazs, Stephen Gould, and Yutaka Matsuo. **A Multi-modal Approach to Fine-grained Opinion Mining on Video Reviews**. ACL 2020 Workshop on Multimodal Language (Challenge-HML). [[paper]](https://aclanthology.org/2020.challengehml-1.2.pdf)
 1. Hanqian Wu, Siliang Cheng, Jingjing Wang, Shoushan Li, and Lian Chi. **Multimodal Aspect Extraction with Region-Aware Alignment Network**. NLPCC 2020. [[paper]](https://www.springerprofessional.de/en/multimodal-aspect-extraction-with-region-aware-alignment-network/18449698)
@@ -325,7 +327,8 @@ maintained by Rui Xia, Jianfei Yu, and Hongjie Cai from Text Mining Group of Nan
 ### 3.3 Multi-Modal Aspect-Oriented Sentiment Classification
 1. Zaid Khan and Yun Fu. **Exploiting BERT For Multimodal Target Sentiment Classification Through Input Space Translation**. ACM MM 2021 [[paper]](https://arxiv.org/pdf/2108.01682.pdf)
 1. Jianfei Yu, Jing Jiang and Rui Xia. **Entity-Sensitive Attention and Fusion Network for Entity-Level Multimodal Sentiment Classification**. IEEE/ACM TASLP 2020. [[paper]](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=6507&context=sis_research)
-1. Jianfei Yu and Jing Jiang. **Adapting BERT for Target-Oriented Multimodal Sentiment Classification**. IJCAI 2019. [[paper]](https://www.ijcai.org/Proceedings/2019/0751.pdf)
+2. Nan Xu, Wenji Mao and Guandan Chen. **Multi-Interactive Memory Network for Aspect Based Multimodal Sentiment Analysis** AAAI 2019. [[paper]](https://www.researchgate.net/profile/Nan-Xu-3/publication/333189502_Multi-Interactive_Memory_Network_for_Aspect_Based_Multimodal_Sentiment_Analysis/links/5d9c26f1458515c1d39e55c3/Multi-Interactive-Memory-Network-for-Aspect-Based-Multimodal-Sentiment-Analysis.pdf)
+3. Jianfei Yu and Jing Jiang. **Adapting BERT for Target-Oriented Multimodal Sentiment Classification**. IJCAI 2019. [[paper]](https://www.ijcai.org/Proceedings/2019/0751.pdf)
 
 ### 3.4 Multi-Modal Aspect-Sentiment Pair Extraction
 1. Xincheng Ju,  Dong Zhang,  Rong Xiao,  Junhui Li, Shoushan Li, Min Zhang, and Guodong Zhou. **Joint Multi-Modal Aspect-Sentiment Analysis with Auxiliary Cross-Modal Relation  Detection**. EMNLP 2021 [[paper]](https://aclanthology.org/2021.emnlp-main.360.pdf)
