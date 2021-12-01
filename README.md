@@ -12,15 +12,16 @@ maintained by Rui Xia, Jianfei Yu, and Hongjie Cai from Text Mining Group of Nan
   - [1.1 Aspect-Oriented Sentiment Classification](#11-aspect-oriented-sentiment-classification)
   - [1.2 Aspect Extraction](#12-aspect-extraction)
   - [1.3 Opinion Extraction](#13-opinion-extraction)
-  - [1.4 Aspect-Opinion Co-Extraction](#14-aspect-opinion-co-extraction)
-  - [1.5 Aspect-Oriented Opinion Extraction](#15-aspect-oriented-opinion-extraction)
-  - [1.6 Aspect-Opinion Pair Extraction](#16-aspect-opinion-pair-extraction)
-  - [1.7 Aspect-Sentiment Pair Extraction](#17-aspect-sentiment-pair-extraction)
-  - [1.8 Category-Oriented Sentiment Classification](#18-category-oriented-sentiment-classification)
-  - [1.9 Category-Sentiment Hierarchical Classification](#19-category-sentiment-hierarchical-classification)
-  - [1.10 Aspect-Category-Sentiment Triple Extraction](#110-aspect-category-sentiment-triple-extraction)
-  - [1.11 Aspect-Opinion-Sentiment Triple Extraction](#111-aspect-opinion-sentiment-triple-extraction)
-  - [1.12 Aspect-Category-Opinion-Sentiment Quadruple Extraction](#112-aspect-category-opinion-sentiment-quadruple-extraction)
+  - [1.4 Category Detection](#14-category-detection)
+  - [1.5 Aspect-Opinion Co-Extraction](#15-aspect-opinion-co-extraction)
+  - [1.6 Aspect-Oriented Opinion Extraction](#16-aspect-oriented-opinion-extraction)
+  - [1.7 Aspect-Opinion Pair Extraction](#17-aspect-opinion-pair-extraction)
+  - [1.8 Aspect-Sentiment Pair Extraction](#18-aspect-sentiment-pair-extraction)
+  - [1.9 Category-Oriented Sentiment Classification](#19-category-oriented-sentiment-classification)
+  - [1.10 Category-Sentiment Hierarchical Classification](#110-category-sentiment-hierarchical-classification)
+  - [1.11 Aspect-Category-Sentiment Triple Extraction](#111-aspect-category-sentiment-triple-extraction)
+  - [1.12 Aspect-Opinion-Sentiment Triple Extraction](#112-aspect-opinion-sentiment-triple-extraction)
+  - [1.13 Aspect-Category-Opinion-Sentiment Quadruple Extraction](#113-aspect-category-opinion-sentiment-quadruple-extraction)
 - [2. Cross-Domain ABSA](#2-cross-domain-absa)
   - [2.1 Cross-Domain Aspect Extraction](#21-cross-domain-aspect-extraction)
   - [2.2 Cross-Domain Aspect-Opinion Co-Extraction](#22-cross-domain-aspect-opinion-co-extraction)
@@ -34,6 +35,24 @@ maintained by Rui Xia, Jianfei Yu, and Hongjie Cai from Text Mining Group of Nan
 
  ## 1. ABSA
  ### 1.1 Aspect-Oriented Sentiment Classification
+
+1. Bo Wang, Tao Shen, Guodong Long, Tianyi Zhou, Yi Chang. **Eliminating Sentiment Bias for Aspect-Level Sentiment Classification with Unsupervised Opinion Extraction**. EMNLP Findings 2021. [paper]](https://aclanthology.org/2021.findings-emnlp.258/) [[code]](https://github.com/wangbo9719/SARL_ABSA)
+
+1. Zeguan Xiao, Jiarun Wu, Qingliang Chen, Congjian Deng. **BERT4GCN: Using BERT Intermediate Layers to Augment GCN for Aspect-based Sentiment Classification**. EMNLP 2021. [[paper]](https://aclanthology.org/2021.emnlp-main.724/)
+
+1. Zixuan Ke, Bing Liu, Hu Xu, Lei Shu. **CLASSIC: Continual and Contrastive Learning of Aspect Sentiment Classification Tasks**. EMNLP 2021. [[paper]](https://aclanthology.org/2021.emnlp-main.550/) [[code]](https://github.com/ZixuanKe/PyContinual)
+
+1. Ronald Seoh, Ian Birle, Mrinal Tak, Haw-Shiuan Chang, Brian Pinette, Alfred Hough. **Open Aspect Target Sentiment Classification with Natural Language Prompts**. EMNLP 2021. [[paper]](https://aclanthology.org/2021.emnlp-main.509/) [[code]](https://github.com/ronaldseoh/atsc_prompts/)
+
+1. Ting-Wei Hsu, Chung-Chi Chen, Hen-Hsen Huang, Hsin-Hsi Chen. **Semantics-Preserved Data Augmentation for Aspect-Based Sentiment Analysis**. EMNLP 2021. [[paper]](https://aclanthology.org/2021.emnlp-main.362/) [[code]](https://github.com/Quant-NLP/SPDAug-ABSA)
+
+1. Han Qin, Guimin Chen, Yuanhe Tian, Yan Song. **Improving Federated Learning for Aspect-based Sentiment Analysis via Topic Memories**. EMNLP 2021. [[paper]](https://aclanthology.org/2021.emnlp-main.321/) [[code]](https://github.com/cuhksz-nlp/ASA-TM)
+
+1. Yuxiang Zhou, Lejian Liao, Yang Gao, Zhanming Jie, Wei Lu. **To be Closer: Learning to Link up Aspects with Opinions**. EMNLP 2021. [[paper]](https://aclanthology.org/2021.emnlp-main.317/) [[code]](https://github.com/zyxnlp/ACLT)
+
+1. Zhengyan Li, Yicheng Zou, Chong Zhang, Qi Zhang, Zhongyu Wei. **Learning Implicit Sentiment in Aspect-based Sentiment Analysis with Supervised Contrastive Pre-Training**. EMNLP 2021. [[paper]](https://aclanthology.org/2021.emnlp-main.22/) [[code]](https://github.com/Tribleave/SCAPT-ABSA)
+
+1. Ruifan Li, Hao Chen, Fangxiang Feng, Zhanyu Ma, Xiaojie Wang, Eduard Hovy. **Dual Graph Convolutional Networks for Aspect-based Sentiment Analysis**. ACL 2021. [[paper]](https://aclanthology.org/2021.acl-long.494.pdf)
 
 1. Yuanhe Tian, Guimin Chen, Yan Song. **Aspect-based Sentiment Analysis with Type-aware Graph Convolutional Networks and Layer Ensemble**. NAACL 2021. [[paper]](https://www.aclweb.org/anthology/2021.naacl-main.231.pdf)
 
@@ -127,6 +146,10 @@ maintained by Rui Xia, Jianfei Yu, and Hongjie Cai from Text Mining Group of Nan
 
 ### 1.2 Aspect Extraction
 
+1. Qianlong Wang, Zhiyuan Wen, Qin Zhao, Min Yang, Ruifeng Xu. **Progressive Self-Training with Discriminator for Aspect Term Extraction**. EMNLP 2021. [[paper]](https://aclanthology.org/2021.emnlp-main.23/) [[code]](https://github.com/qlwang25/progressive_self_training)
+
+1. Zhuang Chen, Tieyun Qian. **Bridge-Based Active Domain Adaptation for Aspect Term Extraction**. ACL 2021. [[paper]](https://aclanthology.org/2021.acl-long.27.pdf)
+
 1. Tian Shi, Liuqing Li, Ping Wang, Chandan K. Reddy. **A Simple and Effective Self-Supervised Contrastive Learning Framework for Aspect Detection**. AAAI 2021. [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/17628/17435)
 
 1. Kun Li, Chengbo Chen, Xiaojun Quan, Qing Ling, Yan Song. **Conditional Augmentation for Aspect Term Extraction via Masked Sequence-to-Sequence Generation**. ACL 2020. [[paper]](https://www.aclweb.org/anthology/2020.acl-main.631.pdf)
@@ -161,7 +184,16 @@ maintained by Rui Xia, Jianfei Yu, and Hongjie Cai from Text Mining Group of Nan
 ### 1.3 Opinion Extraction
 
 
-### 1.4 Aspect-Opinion Co-Extraction
+### 1.4 Category Detection
+
+1. Thi-Nhung Nguyen, Kiem-Hieu Nguyen, Young-In Song, Tuan-Dung Cao. **An Uncertainty-Aware Encoder for Aspect Detection**. EMNLP Findings 2021. [[paper]](https://aclanthology.org/2021.findings-emnlp.69/) 
+ 
+1. Jian Liu, Zhiyang Teng, Leyang Cui, Hanmeng Liu, Yue Zhang. **Solving Aspect Category Sentiment Analysis as a Text Generation Task**. EMNLP 2021. [[paper]](https://aclanthology.org/2021.emnlp-main.361/) [[code]](https://github.com/lgw863/ACSA-generation)
+
+1. Mengting Hu, Shiwan Zhao, Honglei Guo, Chao Xue, Hang Gao, Tiegang Gao, Renhong Cheng, Zhong Su. **Multi-Label Few-Shot Learning for Aspect Category Detection**. ACL 2021. [[paper]](https://aclanthology.org/2021.acl-long.495.pdf)
+
+
+### 1.5 Aspect-Opinion Co-Extraction
 
 1. Meixi Wu, Wenya Wang, Sinno Jialin Pan. **Deep Weighted MaxSAT for Aspect-based Opinion Extraction**. EMNLP 2020. [[paper]](https://www.aclweb.org/anthology/2020.emnlp-main.453.pdf)
 
@@ -173,7 +205,9 @@ maintained by Rui Xia, Jianfei Yu, and Hongjie Cai from Text Mining Group of Nan
 
 1. Pengfei Liu, Shafiq Joty, Helen Meng. **Fine-grained Opinion Mining with Recurrent Neural Networks and Word Embeddings**. EMNLP 2015. [[paper]](https://aclanthology.org/D15-1168.pdf)
 
-### 1.5 Aspect-Oriented Opinion Extraction
+### 1.6 Aspect-Oriented Opinion Extraction
+
+1. Samuel Mensah, Kai Sun, Nikolaos Aletras. **An Empirical Study on Leveraging Position Embeddings for Target-oriented Opinion Words Extraction**. EMNLP 2021. [[paper]](https://aclanthology.org/2021.emnlp-main.722/) [[code]](https://github.com/samensah/Encoders_TOWE_EMNLP2021)
 
 1. Amir Pouran Ben Veyseh, Nasim Nouri, Franck Dernoncourt, Dejing Dou, Thien Huu Nguyen. **Introducing Syntactic Structures into Target Opinion Word Extraction with Deep Learning**. EMNLP 2020. [[paper]](https://www.aclweb.org/anthology/2020.emnlp-main.719.pdf)
 
@@ -182,7 +216,9 @@ maintained by Rui Xia, Jianfei Yu, and Hongjie Cai from Text Mining Group of Nan
 1. Zhifang Fan, Zhen Wu, Xin-Yu Dai, Shujian Huang, Jiajun Chen. **Target-oriented Opinion Words Extraction with Target-fused Neural Sequence Labeling**. NAACL 2019. [[paper]](https://www.aclweb.org/anthology/N19-1259.pdf)
 
 
-### 1.6 Aspect-Opinion Pair Extraction
+### 1.7 Aspect-Opinion Pair Extraction
+
+1. Shengqiong Wu, Hao Fei, Yafeng Ren, Donghong Ji, Jingye Li. **Learn from Syntax: Improving Pair-wise Aspect and Opinion Terms Extraction with Rich Syntactic Knowledge**. IJCAI 2021. [[paper]](https://www.ijcai.org/proceedings/2021/0545.pdf) [[code]](https://github.com/ChocoWu/Synfue-PAOTE)
 
 1. Lei Gao, Yulong Wang, Tongcun Liu, Jingyu Wang, Lei Zhang, Jianxin Liao. **Question-Driven Span Labeling Model for Aspect–Opinion Pair Extraction**. AAAI 2021. [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/17523)
 
@@ -191,7 +227,21 @@ maintained by Rui Xia, Jianfei Yu, and Hongjie Cai from Text Mining Group of Nan
 1. He Zhao, Longtao Huang, Rong Zhang, Quan Lu, Hui Xue. **SpanMlt: A Span-based Multi-Task Learning Framework for Pair-wise Aspect and Opinion Terms Extraction**. ACL 2020. [[paper]](https://www.aclweb.org/anthology/2020.acl-main.296.pdf)
 
 
-### 1.7 Aspect-Sentiment Pair Extraction
+### 1.8 Aspect-Sentiment Pair Extraction
+
+1. Wenxuan Zhang, Yang Deng, Xin Li, Lidong Bing, Wai Lam. **Aspect-based Sentiment Analysis in Question Answering Forums**. EMNLP Findings 2021. [[paper]](https://aclanthology.org/2021.findings-emnlp.390/) [[code]](https://github.com/IsakZhang/ABSA-QA)
+
+1. Yunlong Liang, Fandong Meng, Jinchao Zhang, Yufeng Chen, Jinan Xu, Jie Zhou. **An Iterative Multi-Knowledge Transfer Network for Aspect-Based Sentiment Analysis**. EMNLP Findings 2021. [[paper]](https://aclanthology.org/2021.findings-emnlp.152/) [[code]](https://github.com/XL2248/IMKTN)
+
+1. Guoxin Yu, Jiwei Li, Ling Luo, Yuxian Meng, Xiang Ao, Qing He. **Self Question-answering: Aspect-based Sentiment Analysis by Role Flipped Machine Reading Comprehension**. EMNLP Findings 2021. [[paper]](https://aclanthology.org/2021.findings-emnlp.115/)
+
+1. Zeyu Li, Wei Cheng, Reema Kshetramade, John Houser, Haifeng Chen, Wei Wang. **Recommend for a Reason: Unlocking the Power of Unsupervised Aspect-Sentiment Co-Extraction**. EMNLP Findings 2021. [[paper]](https://aclanthology.org/2021.findings-emnlp.66/) [[code]](https://github.com/zyli93/ASPE-APRE)
+
+1. Wenxuan Zhang, Ruidan He, Haiyun Peng, Lidong Bing, Wai Lam. **Cross-lingual Aspect-based Sentiment Analysis with Aspect Term Code-Switching**. EMNLP 2021. [[paper]](https://aclanthology.org/2021.emnlp-main.727/) [[code]](https://github.com/IsakZhang/XABSA)
+
+1. Jeremy Barnes, Robin Kurtz, Stephan Oepen, Lilja Øvrelid, Erik Velldal. **Structured Sentiment Analysis as Dependency Graph Parsing**. ACL 2021. [[paper]](https://aclanthology.org/2021.acl-long.263.pdf)
+
+1. Shinhyeok Oh, Dongyub Lee, Taesun Whang, IlNam Park, Seo Gaeun, EungGyun Kim, Harksoo Kim. **Deep Context- and Relation-Aware Learning for Aspect-based Sentiment Analysis**. ACL 2021. [[paper]](https://aclanthology.org/2021.acl-short.63.pdf)
 
 1. Rui Mao, Xiao Li. **Bridging Towers of Multi-task Learning with a Gating Mechanism for Aspect-based Sentiment Analysis and Sequential Metaphor Identification**. AAAI 2021. [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/17596)
 
@@ -221,7 +271,12 @@ maintained by Rui Xia, Jianfei Yu, and Hongjie Cai from Text Mining Group of Nan
 
 1. Margaret Mitchell, Jacqui Aguilar, Theresa Wilson, Benjamin Van Durme. **Open Domain Targeted Sentiment**. EMNLP 2013. [[paper]](https://aclanthology.org/D13-1171.pdf)
 
-### 1.8 Category-Oriented Sentiment Classification
+### 1.9 Category-Oriented Sentiment Classification
+
+
+1. Jian Liu, Zhiyang Teng, Leyang Cui, Hanmeng Liu, Yue Zhang. **Solving Aspect Category Sentiment Analysis as a Text Generation Task**. EMNLP 2021. [[paper]](https://aclanthology.org/2021.emnlp-main.361/) [[code]](https://github.com/lgw863/ACSA-generation)
+
+1. Bin Liang, Hang Su, Rongdi Yin, Lin Gui, Min Yang, Qin Zhao, Xiaoqi Yu, Ruifeng Xu. **Beta Distribution Guided Aspect-aware Graph for Aspect Category Sentiment Analysis with Affective Knowledge**. EMNLP 2021. [[paper]](https://aclanthology.org/2021.emnlp-main.19/) [[code]](https://github.com/BinLiang-NLP/AAGCN-ACSA)
 
 1. Chi Sun, Luyao Huang, Xipeng Qiu. **Utilizing BERT for Aspect-Based Sentiment Analysis via Constructing Auxiliary Sentence**. NAACL 2019. [[paper]](https://www.aclweb.org/anthology/N19-1035/) [[code]](https://github.com/HSLCY/ABSA-BERT-pair)
 
@@ -235,7 +290,7 @@ maintained by Rui Xia, Jianfei Yu, and Hongjie Cai from Text Mining Group of Nan
 
 1. Caroline Brun, Diana Nicoleta Popa, Claude Roux. **XRCE: Hybrid Classification for Aspect-based Sentiment Analysis**. SemEval 2014. [[paper]](https://aclanthology.org/S14-2149.pdf)
 
-### 1.9 Category-Sentiment Hierarchical Classification
+### 1.10 Category-Sentiment Hierarchical Classification
 
 1. Jiahao Bu, Lei Ren, Shuang Zheng, Yang Yang, Jingang Wang, Fuzheng Zhang, Wei Wu. **ASAP: A Chinese Review Dataset Towards Aspect Category Sentiment Analysis and Rating Prediction**. NAACL 2021. [[paper]](https://www.aclweb.org/anthology/2021.naacl-main.167.pdf)
 
@@ -250,11 +305,15 @@ maintained by Rui Xia, Jianfei Yu, and Hongjie Cai from Text Mining Group of Nan
 1. Martin Schmitt, Simon Steinheber, Konrad Schreiber, Benjamin Roth. **Joint Aspect and Polarity Classification for Aspect-based Sentiment Analysis with End-to-End Neural Networks**. EMNLP 2018. [[paper]](https://aclanthology.org/D18-1139.pdf)
 
 
-### 1.10 Aspect-Category-Sentiment Triple Extraction
+### 1.11 Aspect-Category-Sentiment Triple Extraction
 
 1. Hai Wan, Yufei Yang, Jianfeng Du, Yanan Liu, Kunxun Qi, Jeff Z. Pan. **Target-Aspect-Sentiment Joint Detection for Aspect-Based Sentiment Analysis**. AAAI 2020. [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/6447/6303) [[code]](https://github.com/sysulic/TAS-BERT)
 
-### 1.11 Aspect-Opinion-Sentiment Triple Extraction
+### 1.12 Aspect-Opinion-Sentiment Triple Extraction
+
+1. Rajdeep Mukherjee, Tapas Nayak, Yash Butala, Sourangshu Bhattacharya, Pawan Goyal. **PASTE: A Tagging-Free Decoding Framework Using Pointer Networks for Aspect Sentiment Triplet Extraction**. EMNLP 2021. [[paper]](https://aclanthology.org/2021.emnlp-main.731/) [[code]](https://github.com/rajdeep345/PASTE/)
+
+1. Hongjiang Jing, Zuchao Li, Hai Zhao, Shu Jiang. **Seeking Common but Distinguishing Difference, A Joint Aspect-based Sentiment Analysis Model**. EMNLP 2021. [[paper]](https://aclanthology.org/2021.emnlp-main.318/) 
 
 1. Wenxuan Zhang, Xin Li, Yang Deng, Lidong Bing, Wai Lam. **Towards Generative Aspect-Based Sentiment Analysis**. ACL 2021. [[paper]](https://aclanthology.org/2021.acl-short.64/) [[code]](https://github.com/IsakZhang/Generative-ABSA)
 
@@ -276,9 +335,11 @@ maintained by Rui Xia, Jianfei Yu, and Hongjie Cai from Text Mining Group of Nan
 
 1. Minqing Hu, Bing Liu. **Mining and Summarizing Customer Reviews**. KDD 2004. [[paper]](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.222.9730&rep=rep1&type=pdf)
 
-### 1.12 Aspect-Category-Opinion-Sentiment Quadruple Extraction
+### 1.13 Aspect-Category-Opinion-Sentiment Quadruple Extraction
 
 1. Hongjie Cai, Rui Xia, Jianfei Yu. **Aspect-Category-Opinion-Sentiment Quadruple Extraction with Implicit Aspects and Opinions**. ACL 2021. [[paper]](https://aclanthology.org/2021.acl-long.29.pdf) [[code]](https://github.com/NUSTM/ACOS)
+
+1. Wenxuan Zhang, Yang Deng, Xin Li, Yifei Yuan, Lidong Bing, Wai Lam. **Aspect Sentiment Quad Prediction as Paraphrase Generation**. EMNLP 2021. [[paper]](https://aclanthology.org/2021.emnlp-main.726/) [[code]](https://github.com/IsakZhang/ABSA-QUAD)
 
  
  ## 2. Cross-Domain ABSA
@@ -311,7 +372,7 @@ maintained by Rui Xia, Jianfei Yu, and Hongjie Cai from Text Mining Group of Nan
  
  ## 3. Multi-Modal ABSA
  
-### 3.1 Multi-Modal Aspect Extraction (& Multi-Modal Named Entity Recognition)
+### 3.1 Multi-Modal Aspect Extraction
 1. Dong Zhang, Suzhong Wei, Shoushan Li, Hanqian Wu, Qiaoming Zhu, and Guodong Zhou. **Multi-modal Graph Fusion for Named Entity Recognition with Targeted Visual Guidance**. AAAI 2021. [[paper]](https://www.aaai.org/AAAI21Papers/AAAI-2753.ZhangD.pdf)
 2. Lin Sun, Jiquan Wang, Kai Zhang, Yindu Su and Fangsheng Weng. **RpBERT: A Text-image Relation Propagation-based BERT Model for Multimodal NER**. AAAI 2021. [[paper]](https://www.aaai.org/AAAI21Papers/AAAI-761.SunL.pdf)
 1. Jianfei Yu, Jing Jiang, Li Yang, and Rui Xia. **Improving Multimodal Named Entity Recognition via Entity Span Detection with Unified Multimodal Transformer**. ACL 2020. [[paper]](https://aclanthology.org/2020.acl-main.306.pdf)
