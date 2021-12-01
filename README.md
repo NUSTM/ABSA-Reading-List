@@ -36,7 +36,7 @@ maintained by Rui Xia, Jianfei Yu, and Hongjie Cai from Text Mining Group of Nan
  ## 1. ABSA
  ### 1.1 Aspect-Oriented Sentiment Classification
 
-1. Bo Wang, Tao Shen, Guodong Long, Tianyi Zhou, Yi Chang. **Eliminating Sentiment Bias for Aspect-Level Sentiment Classification with Unsupervised Opinion Extraction**. EMNLP Findings 2021. [paper]](https://aclanthology.org/2021.findings-emnlp.258/) [[code]](https://github.com/wangbo9719/SARL_ABSA)
+1. Bo Wang, Tao Shen, Guodong Long, Tianyi Zhou, Yi Chang. **Eliminating Sentiment Bias for Aspect-Level Sentiment Classification with Unsupervised Opinion Extraction**. EMNLP Findings 2021. [[paper]](https://aclanthology.org/2021.findings-emnlp.258/) [[code]](https://github.com/wangbo9719/SARL_ABSA)
 
 1. Zeguan Xiao, Jiarun Wu, Qingliang Chen, Congjian Deng. **BERT4GCN: Using BERT Intermediate Layers to Augment GCN for Aspect-based Sentiment Classification**. EMNLP 2021. [[paper]](https://aclanthology.org/2021.emnlp-main.724/)
 
