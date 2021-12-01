@@ -337,7 +337,7 @@ maintained by Rui Xia, Jianfei Yu, and Hongjie Cai from Text Mining Group of Nan
 
 ### 1.13 Aspect-Category-Opinion-Sentiment Quadruple Extraction
 
-1. Hongjie Cai, Rui Xia, Jianfei Yu. **Aspect-Category-Opinion-Sentiment Quadruple Extraction with Implicit Aspects and Opinions**. ACL 2021. [[paper]](https://aclanthology.org/2021.acl-long.29.pdf) [[code]](https://github.com/NUSTM/ACOS)
+1. Hongjie Cai, Rui Xia, Jianfei Yu. **Aspect-Category-Opinion-Sentiment Quadruple Extraction with Implicit Aspects and Opinions**. ACL 2021. [[paper]](https://aclanthology.org/2021.acl-long.29.pdf) [[code & data]](https://github.com/NUSTM/ACOS) ![](https://img.shields.io/badge/-The%20first%20work%20introducing%20the%20ABSA%20Quadruple%20Extraction%20task-red)
 
 1. Wenxuan Zhang, Yang Deng, Xin Li, Yifei Yuan, Lidong Bing, Wai Lam. **Aspect Sentiment Quad Prediction as Paraphrase Generation**. EMNLP 2021. [[paper]](https://aclanthology.org/2021.emnlp-main.726/) [[code]](https://github.com/IsakZhang/ABSA-QUAD)
 
