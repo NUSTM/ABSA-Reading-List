@@ -28,7 +28,7 @@ maintained by Rui Xia, Jianfei Yu, and Hongjie Cai from Text Mining Group of Nan
   - [2.3 Cross-Domain Aspect-Oriented Sentiment Classification](#23-cross-domain-aspect-oriented-sentiment-classification)
   - [2.4 Cross-Domain Aspect-Sentiment Pair Extraction](#24-cross-domain-aspect-sentiment-pair-extraction)
 - [3. Multi-Modal ABSA](#3-multi-modal-absa)
-  - [3.1 Multi-Modal Aspect Extraction](#31-multi-modal-aspect-extraction)
+  - [3.1 Multi-Modal Aspect Extraction (& Multi-Modal Named Entity Recognition)](#31-multi-modal-aspect-extraction--multi-modal-named-entity-recognition)
   - [3.2 Multi-Modal Category-Oriented Sentiment Classification](#32-multi-modal-category-oriented-sentiment-classification)
   - [3.3 Multi-Modal Aspect-Oriented Sentiment Classification](#33-multi-modal-aspect-oriented-sentiment-classification)
   - [3.4 Multi-Modal Aspect-Sentiment Pair Extraction](#34-multi-modal-aspect-sentiment-pair-extraction)
@@ -372,7 +372,7 @@ maintained by Rui Xia, Jianfei Yu, and Hongjie Cai from Text Mining Group of Nan
  
  ## 3. Multi-Modal ABSA
  
-### 3.1 Multi-Modal Aspect Extraction
+### 3.1 Multi-Modal Aspect Extraction (& Multi-Modal Named Entity Recognition)
 1. Dong Zhang, Suzhong Wei, Shoushan Li, Hanqian Wu, Qiaoming Zhu, and Guodong Zhou. **Multi-modal Graph Fusion for Named Entity Recognition with Targeted Visual Guidance**. AAAI 2021. [[paper]](https://www.aaai.org/AAAI21Papers/AAAI-2753.ZhangD.pdf)
 2. Lin Sun, Jiquan Wang, Kai Zhang, Yindu Su and Fangsheng Weng. **RpBERT: A Text-image Relation Propagation-based BERT Model for Multimodal NER**. AAAI 2021. [[paper]](https://www.aaai.org/AAAI21Papers/AAAI-761.SunL.pdf)
 1. Jianfei Yu, Jing Jiang, Li Yang, and Rui Xia. **Improving Multimodal Named Entity Recognition via Entity Span Detection with Unified Multimodal Transformer**. ACL 2020. [[paper]](https://aclanthology.org/2020.acl-main.306.pdf)
