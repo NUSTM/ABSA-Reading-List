@@ -1,5 +1,5 @@
 # Aspect-Based Sentiment Analysis Reading List
-Reading List of aspect-based sentiment analysis (ABSA), Cross-Domain ABSA, and Multi-Modal ABSA, maintained by Rui Xia, Jianfei Yu, Hongjie Cai, Zengzhi Wang, and Junjie Li from Text Mining Group of Nanjing University of Science & Technology (NUSTM).
+Reading List of aspect-based sentiment analysis (ABSA), Cross-Domain ABSA, and Multi-Modal ABSA, maintained by Rui Xia, Jianfei Yu, Hongjie Cai, Zengzhi Wang, Junjie Li, and Yan Ling from Text Mining Group of Nanjing University of Science & Technology (NUSTM).
 
 <!-- This directory contains the aspect-based sentiment analysis reading list .
 maintained by Rui Xia, Jianfei Yu, and Hongjie Cai from Text Mining Group of Nanjing University of Science & Technology (NUSTM) -->
