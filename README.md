@@ -382,7 +382,7 @@ maintained by Rui Xia, Jianfei Yu, and Hongjie Cai from Text Mining Group of Nan
 7. Changmeng Zheng, Zhiwei Wu, Tao Wang, Yi Cai and Qing Li. **Object-Aware Multimodal Named Entity Recognition in Social Media Posts With Adversarial Learning**. IEEE Transactions on Multimedia 2020. [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9154571)
 8. Jianfei Yu, Jing Jiang, Li Yang, and Rui Xia. **Improving Multimodal Named Entity Recognition via Entity Span Detection with Unified Multimodal Transformer**. ACL 2020. [[paper]](https://aclanthology.org/2020.acl-main.306.pdf)
 10. Hanqian Wu, Siliang Cheng, Jingjing Wang, Shoushan Li, and Lian Chi. **Multimodal Aspect Extraction with Region-Aware Alignment Network**. NLPCC 2020. [[paper]](https://www.springerprofessional.de/en/multimodal-aspect-extraction-with-region-aware-alignment-network/18449698)
-11. Seungwhan Moon, Leonardo Neves and Vitor Carvalho. **Multimodal Named Entity Recognition with Image Attributes and Image Knowledge**. ACL 2018. [[paper]](https://aclanthology.org/N18-1078.pdf)
+11. Seungwhan Moon, Leonardo Neves and Vitor Carvalho. **Multimodal Named Entity Recognition for Short Social Media Posts**. NAACL 2018. [[paper]](https://aclanthology.org/N18-1078.pdf)
 12. Di Lu, Leonardo Neves, Vitor Carvalho, Ning Zhang and Heng Ji. **Visual Attention Model for Name Tagging in Multimodal Social Media**. ACL 2018. [[paper]](https://aclanthology.org/P18-1185.pdf)
 13. Qi Zhang, Jinlan Fu, Xiaoyu Liu and Xuanjing Huang. **Adaptive Co-Attention Network for Named Entity Recognition in Tweets**. AAAI 2018. [[paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16432/16127)
 
