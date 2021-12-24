@@ -389,13 +389,12 @@ maintained by Rui Xia, Jianfei Yu, and Hongjie Cai from Text Mining Group of Nan
 
 ### 3.2 Multi-Modal Category-Oriented Sentiment Classification
 1. Jie Zhou, Jiabao Zhao, Jimmy Xiangji Huang, Qinmin Vivian Hu, and Liang He. **MASAD: A Large-Scale Dataset for Multimodal Aspect-Based Sentiment Analysis**. Neurocomputing 2021. [[paper]](https://www.sciencedirect.com/science/article/pii/S0925231221007931)
-1. Nan Xu, Wenji Mao, and Guandan Chen. **Multi-interactive Memory Network for Aspect Based Multimodal Sentiment Analysis**. AAAI 2019. [[paper]](https://ojs.aaai.org//index.php/AAAI/article/view/3807)
+1. Nan Xu, Wenji Mao, and Guandan Chen. **Multi-interactive Memory Network for Aspect Based Multimodal Sentiment Analysis**. AAAI 2019. [[paper]](https://ojs.aaai.org//index.php/AAAI/article/view/3807) [[code]](https://github.com/xunan0812/MIMN)
 
 
 ### 3.3 Multi-Modal Aspect-Oriented Sentiment Classification
 1. Zaid Khan and Yun Fu. **Exploiting BERT For Multimodal Target Sentiment Classification Through Input Space Translation**. ACM MM 2021 [[paper]](https://arxiv.org/pdf/2108.01682.pdf) [[code]](https://github.com/codezakh/exploiting-BERT-thru-translation)
 1. Jianfei Yu, Jing Jiang and Rui Xia. **Entity-Sensitive Attention and Fusion Network for Entity-Level Multimodal Sentiment Classification**. IEEE/ACM TASLP 2020. [[paper]](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=6507&context=sis_research)
-2. Nan Xu, Wenji Mao and Guandan Chen. **Multi-Interactive Memory Network for Aspect Based Multimodal Sentiment Analysis** AAAI 2019. [[paper]](https://www.researchgate.net/profile/Nan-Xu-3/publication/333189502_Multi-Interactive_Memory_Network_for_Aspect_Based_Multimodal_Sentiment_Analysis/links/5d9c26f1458515c1d39e55c3/Multi-Interactive-Memory-Network-for-Aspect-Based-Multimodal-Sentiment-Analysis.pdf) [[code]](https://github.com/xunan0812/MIMN)
 3. Jianfei Yu and Jing Jiang. **Adapting BERT for Target-Oriented Multimodal Sentiment Classification**. IJCAI 2019. [[paper]](https://www.ijcai.org/Proceedings/2019/0751.pdf) [[code]](https://github.com/jefferyYu/TomBERT)
 
 ### 3.4 Multi-Modal Aspect-Sentiment Pair Extraction
