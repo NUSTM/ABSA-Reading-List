@@ -373,14 +373,14 @@ maintained by Rui Xia, Jianfei Yu, and Hongjie Cai from Text Mining Group of Nan
  ## 3. Multi-Modal ABSA
  
 ### 3.1 Multi-Modal Aspect Extraction (& Multi-Modal Named Entity Recognition)
-1. Dong Zhang, Suzhong Wei, Shoushan Li, Hanqian Wu, Qiaoming Zhu, and Guodong Zhou. **Multi-modal Graph Fusion for Named Entity Recognition with Targeted Visual Guidance**. AAAI 2021. [[paper]](https://www.aaai.org/AAAI21Papers/AAAI-2753.ZhangD.pdf)
-2. Lin Sun, Jiquan Wang, Kai Zhang, Yindu Su and Fangsheng Weng. **RpBERT: A Text-image Relation Propagation-based BERT Model for Multimodal NER**. AAAI 2021. [[paper]](https://www.aaai.org/AAAI21Papers/AAAI-761.SunL.pdf)
+1. Dong Zhang, Suzhong Wei, Shoushan Li, Hanqian Wu, Qiaoming Zhu, and Guodong Zhou. **Multi-modal Graph Fusion for Named Entity Recognition with Targeted Visual Guidance**. AAAI 2021. [[paper]](https://www.aaai.org/AAAI21Papers/AAAI-2753.ZhangD.pdf) [[code]](https://github.com/TransformersWsz/UMGF)
+2. Lin Sun, Jiquan Wang, Kai Zhang, Yindu Su and Fangsheng Weng. **RpBERT: A Text-image Relation Propagation-based BERT Model for Multimodal NER**. AAAI 2021. [[paper]](https://www.aaai.org/AAAI21Papers/AAAI-761.SunL.pdf) [[code]](https://github.com/Multimodal-NER/RpBERT)
 3. Dawei Chen, Zhixu Li, Binbin Gu, and Zhigang Chen. **Multimodal Named Entity Recognition with Image Attributes and Image Knowledge**. DASFAA 2021. [[paper]](https://link.springer.com/content/pdf/10.1007%2F978-3-030-73197-7_12.pdf)
 4. Shuguang Chen, Gustavo Aguilar, Leonardo Neves and Thamar Solorio. **Can images help recognize entities? A study of the role of images for Multimodal NER**. WNUT 2021. [[paper]](https://aclanthology.org/2021.wnut-1.11.pdf)
 5. Luping Liu, Meiling Wang, Mozhi Zhang, Linbo Qing and Xiaohai He. **UAMNer: uncertainty-aware multimodal named entity recognition in social media posts**. Applied Intelligence 2021. [[paper]](https://link.springer.com/content/pdf/10.1007/s10489-021-02546-5.pdf)
 6. Zhiwei Wu, Changmeng Zheng, Yi Cai, Junying Chen, Ho-fung Leung and Qing Li. **Multimodal Representation with Embedded Visual Guiding Objects for Named Entity Recognition in Social Media Posts**. ACM MM 2020. [[paper]](https://dl.acm.org/doi/pdf/10.1145/3394171.3413650)
 7. Changmeng Zheng, Zhiwei Wu, Tao Wang, Yi Cai and Qing Li. **Object-Aware Multimodal Named Entity Recognition in Social Media Posts With Adversarial Learning**. IEEE Transactions on Multimedia 2020. [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9154571)
-8. Jianfei Yu, Jing Jiang, Li Yang, and Rui Xia. **Improving Multimodal Named Entity Recognition via Entity Span Detection with Unified Multimodal Transformer**. ACL 2020. [[paper]](https://aclanthology.org/2020.acl-main.306.pdf)
+8. Jianfei Yu, Jing Jiang, Li Yang, and Rui Xia. **Improving Multimodal Named Entity Recognition via Entity Span Detection with Unified Multimodal Transformer**. ACL 2020. [[paper]](https://aclanthology.org/2020.acl-main.306.pdf) [[code]](https://github.com/jefferyYu/UMT)
 10. Hanqian Wu, Siliang Cheng, Jingjing Wang, Shoushan Li, and Lian Chi. **Multimodal Aspect Extraction with Region-Aware Alignment Network**. NLPCC 2020. [[paper]](https://www.springerprofessional.de/en/multimodal-aspect-extraction-with-region-aware-alignment-network/18449698)
 11. Seungwhan Moon, Leonardo Neves and Vitor Carvalho. **Multimodal Named Entity Recognition for Short Social Media Posts**. NAACL 2018. [[paper]](https://aclanthology.org/N18-1078.pdf)
 12. Di Lu, Leonardo Neves, Vitor Carvalho, Ning Zhang and Heng Ji. **Visual Attention Model for Name Tagging in Multimodal Social Media**. ACL 2018. [[paper]](https://aclanthology.org/P18-1185.pdf)
@@ -393,10 +393,10 @@ maintained by Rui Xia, Jianfei Yu, and Hongjie Cai from Text Mining Group of Nan
 
 
 ### 3.3 Multi-Modal Aspect-Oriented Sentiment Classification
-1. Zaid Khan and Yun Fu. **Exploiting BERT For Multimodal Target Sentiment Classification Through Input Space Translation**. ACM MM 2021 [[paper]](https://arxiv.org/pdf/2108.01682.pdf)
+1. Zaid Khan and Yun Fu. **Exploiting BERT For Multimodal Target Sentiment Classification Through Input Space Translation**. ACM MM 2021 [[paper]](https://arxiv.org/pdf/2108.01682.pdf) [[code]](https://github.com/codezakh/exploiting-BERT-thru-translation)
 1. Jianfei Yu, Jing Jiang and Rui Xia. **Entity-Sensitive Attention and Fusion Network for Entity-Level Multimodal Sentiment Classification**. IEEE/ACM TASLP 2020. [[paper]](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=6507&context=sis_research)
-2. Nan Xu, Wenji Mao and Guandan Chen. **Multi-Interactive Memory Network for Aspect Based Multimodal Sentiment Analysis** AAAI 2019. [[paper]](https://www.researchgate.net/profile/Nan-Xu-3/publication/333189502_Multi-Interactive_Memory_Network_for_Aspect_Based_Multimodal_Sentiment_Analysis/links/5d9c26f1458515c1d39e55c3/Multi-Interactive-Memory-Network-for-Aspect-Based-Multimodal-Sentiment-Analysis.pdf)
-3. Jianfei Yu and Jing Jiang. **Adapting BERT for Target-Oriented Multimodal Sentiment Classification**. IJCAI 2019. [[paper]](https://www.ijcai.org/Proceedings/2019/0751.pdf)
+2. Nan Xu, Wenji Mao and Guandan Chen. **Multi-Interactive Memory Network for Aspect Based Multimodal Sentiment Analysis** AAAI 2019. [[paper]](https://www.researchgate.net/profile/Nan-Xu-3/publication/333189502_Multi-Interactive_Memory_Network_for_Aspect_Based_Multimodal_Sentiment_Analysis/links/5d9c26f1458515c1d39e55c3/Multi-Interactive-Memory-Network-for-Aspect-Based-Multimodal-Sentiment-Analysis.pdf) [[code]](https://github.com/xunan0812/MIMN)
+3. Jianfei Yu and Jing Jiang. **Adapting BERT for Target-Oriented Multimodal Sentiment Classification**. IJCAI 2019. [[paper]](https://www.ijcai.org/Proceedings/2019/0751.pdf) [[code]](https://github.com/jefferyYu/TomBERT)
 
 ### 3.4 Multi-Modal Aspect-Sentiment Pair Extraction
-1. Xincheng Ju,  Dong Zhang,  Rong Xiao,  Junhui Li, Shoushan Li, Min Zhang, and Guodong Zhou. **Joint Multi-Modal Aspect-Sentiment Analysis with Auxiliary Cross-Modal Relation  Detection**. EMNLP 2021 [[paper]](https://aclanthology.org/2021.emnlp-main.360.pdf)
+1. Xincheng Ju,  Dong Zhang,  Rong Xiao,  Junhui Li, Shoushan Li, Min Zhang, and Guodong Zhou. **Joint Multi-Modal Aspect-Sentiment Analysis with Auxiliary Cross-Modal Relation  Detection**. EMNLP 2021 [[paper]](https://aclanthology.org/2021.emnlp-main.360.pdf) [[code]](https://github.com/MANLP-suda/JML)
