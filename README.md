@@ -249,6 +249,8 @@ maintained by Rui Xia, Jianfei Yu, and Hongjie Cai from Text Mining Group of Nan
 
 1. Yan Zhou, Fuqing Zhu, Pu Song, Jizhong Han, Tao Guo, Songlin Hu. **An Adaptive Hybrid Framework for Cross-domain Aspect-based Sentiment Analysis**. AAAI 2021. [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/17719/17526)
 
+1. Huaishao Luo, Lei Ji, Tianrui Li, Daxin Jiang, Nan Duan. **GRACE: Gradient Harmonized and Cascaded Labeling for Aspect-based Sentiment Analysis**. EMNLP 2020 Findings. [[paper]](https://aclanthology.org/2020.findings-emnlp.6/) [[code]](https://github.com/ArrowLuo/GRACE)
+
 1. Chenggong Gong, Jianfei Yu, Rui Xia. **Unified Feature and Instance Based Domain Adaptation for Aspect-Based Sentiment Analysis**. EMNLP 2020. [[paper]](https://www.aclweb.org/anthology/2020.emnlp-main.572.pdf)
 
 1. Jiaxin Huang, Yu Meng, Fang Guo, Heng Ji, Jiawei Han. **Weakly-Supervised Aspect-Based Sentiment Analysis via Joint Aspect-Sentiment Topic Embedding**. EMNLP 2020. [[paper]](https://www.aclweb.org/anthology/2020.emnlp-main.568.pdf)
