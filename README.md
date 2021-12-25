@@ -239,6 +239,8 @@ maintained by Rui Xia, Jianfei Yu, and Hongjie Cai from Text Mining Group of Nan
 
 1. Wenxuan Zhang, Ruidan He, Haiyun Peng, Lidong Bing, Wai Lam. **Cross-lingual Aspect-based Sentiment Analysis with Aspect Term Code-Switching**. EMNLP 2021. [[paper]](https://aclanthology.org/2021.emnlp-main.727/) [[code]](https://github.com/IsakZhang/XABSA)
 
+1. Matan Orbach, Orith Toledo-Ronen, Artem Spector, Ranit Aharonov, Yoav Katz, Noam Slonim. **YASO: A Targeted Sentiment Analysis Evaluation Dataset for Open-Domain Reviews**. EMNLP 2021. [[paper]](https://aclanthology.org/2021.emnlp-main.721/) [[code]](https://github.com/IBM/yaso-tsa)
+
 1. Jeremy Barnes, Robin Kurtz, Stephan Oepen, Lilja Øvrelid, Erik Velldal. **Structured Sentiment Analysis as Dependency Graph Parsing**. ACL 2021. [[paper]](https://aclanthology.org/2021.acl-long.263.pdf)
 
 1. Shinhyeok Oh, Dongyub Lee, Taesun Whang, IlNam Park, Seo Gaeun, EungGyun Kim, Harksoo Kim. **Deep Context- and Relation-Aware Learning for Aspect-based Sentiment Analysis**. ACL 2021. [[paper]](https://aclanthology.org/2021.acl-short.63.pdf)
