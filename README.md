@@ -369,9 +369,9 @@ maintained by Rui Xia, Jianfei Yu, and Hongjie Cai from Text Mining Group of Nan
 
 
 ### 2.4 Cross-Domain Aspect-Sentiment Pair Extraction
-1. Jianfei Yu, Chenggong Gong, and Rui Xia. **Cross-Domain Review Generation for Aspect-Based Sentiment Analysis**. ACL 2021，Findings. [[paper]](https://aclanthology.org/2021.findings-acl.421.pdf)
+1. Jianfei Yu, Chenggong Gong, and Rui Xia. **Cross-Domain Review Generation for Aspect-Based Sentiment Analysis**. ACL 2021，Findings. [[paper]](https://aclanthology.org/2021.findings-acl.421.pdf) [[code]](https://github.com/NUSTM/CDRG)
 1. Yan Zhou, Fuqing Zhu, Pu Song, Jizhong Han, Tao Guo, and Songlin Hu. **An Adaptive Hybrid Framework for Cross-domain Aspect-based Sentiment Analysis**. AAAI 2021. [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/17719)
-1. Chenggong Gong, Jianfei Yu, and Rui Xia. **Unified Feature and Instance Based Domain Adaptation for Aspect-Based Sentiment Analysis**. EMNLP 2020. [[paper]](https://www.aclweb.org/anthology/2020.emnlp-main.572.pdf)
+1. Chenggong Gong, Jianfei Yu, and Rui Xia. **Unified Feature and Instance Based Domain Adaptation for Aspect-Based Sentiment Analysis**. EMNLP 2020. [[paper]](https://www.aclweb.org/anthology/2020.emnlp-main.572.pdf) [[code]](https://github.com/NUSTM/BERT-UDA)
 1. Zheng Li, Xin Li, Ying Wei, Lidong Bing, Yu Zhang and Qiang Yang. **Transferable End-to-End Aspect-based Sentiment Analysis with Selective Adversarial Learning**. EMNLP 2019. [[paper]](https://arxiv.org/abs/1910.14192) 
  
  ## 3. Multi-Modal ABSA
