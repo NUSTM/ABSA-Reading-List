@@ -410,5 +410,5 @@ maintained by Rui Xia, Jianfei Yu, and Hongjie Cai from Text Mining Group of Nan
 6. Jianfei Yu and Jing Jiang. **Adapting BERT for Target-Oriented Multimodal Sentiment Classification**. IJCAI 2019. [[paper]](https://www.ijcai.org/Proceedings/2019/0751.pdf) [[code]](https://github.com/jefferyYu/TomBERT)
 
 ### 3.4 Multi-Modal Aspect-Sentiment Pair Extraction
-1. Yan Ling, Jianfei Yu, and Rui Xia. **Vision-Language Pre-Training for Multimodal Aspect-Based Sentiment Analysis**. [[paper]](https://aclanthology.org/2022.acl-long.152.pdf) [[code]](https://github.com/NUSTM/VLP-MABSA)
+1. Yan Ling, Jianfei Yu, and Rui Xia. **Vision-Language Pre-Training for Multimodal Aspect-Based Sentiment Analysis**. ACL 2022. [[paper]](https://aclanthology.org/2022.acl-long.152.pdf) [[code]](https://github.com/NUSTM/VLP-MABSA)
 2. Xincheng Ju,  Dong Zhang,  Rong Xiao,  Junhui Li, Shoushan Li, Min Zhang, and Guodong Zhou. **Joint Multi-Modal Aspect-Sentiment Analysis with Auxiliary Cross-Modal Relation  Detection**. EMNLP 2021 [[paper]](https://aclanthology.org/2021.emnlp-main.360.pdf) [[code]](https://github.com/MANLP-suda/JML)
