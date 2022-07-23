@@ -390,9 +390,9 @@ maintained by Rui Xia, Jianfei Yu, and Hongjie Cai from Text Mining Group of Nan
 11. Changmeng Zheng, Zhiwei Wu, Tao Wang, Yi Cai and Qing Li. **Object-Aware Multimodal Named Entity Recognition in Social Media Posts With Adversarial Learning**. IEEE Transactions on Multimedia 2020. [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9154571)
 12. Jianfei Yu, Jing Jiang, Li Yang, and Rui Xia. **Improving Multimodal Named Entity Recognition via Entity Span Detection with Unified Multimodal Transformer**. ACL 2020. [[paper]](https://aclanthology.org/2020.acl-main.306.pdf) [[code]](https://github.com/jefferyYu/UMT)
 13. Hanqian Wu, Siliang Cheng, Jingjing Wang, Shoushan Li, and Lian Chi. **Multimodal Aspect Extraction with Region-Aware Alignment Network**. NLPCC 2020. [[paper]](https://www.springerprofessional.de/en/multimodal-aspect-extraction-with-region-aware-alignment-network/18449698)
-14. Seungwhan Moon, Leonardo Neves and Vitor Carvalho. **Multimodal Named Entity Recognition for Short Social Media Posts**. NAACL 2018. [[paper]](https://aclanthology.org/N18-1078.pdf)
-15. Di Lu, Leonardo Neves, Vitor Carvalho, Ning Zhang and Heng Ji. **Visual Attention Model for Name Tagging in Multimodal Social Media**. ACL 2018. [[paper]](https://aclanthology.org/P18-1185.pdf)
-16. Qi Zhang, Jinlan Fu, Xiaoyu Liu and Xuanjing Huang. **Adaptive Co-Attention Network for Named Entity Recognition in Tweets**. AAAI 2018. [[paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16432/16127)
+14. Di Lu, Leonardo Neves, Vitor Carvalho, Ning Zhang and Heng Ji. **Visual Attention Model for Name Tagging in Multimodal Social Media**. ACL 2018. [[paper]](https://aclanthology.org/P18-1185.pdf)
+15. Qi Zhang, Jinlan Fu, Xiaoyu Liu and Xuanjing Huang. **Adaptive Co-Attention Network for Named Entity Recognition in Tweets**. AAAI 2018. [[paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16432/16127)
+16. Seungwhan Moon, Leonardo Neves and Vitor Carvalho. **Multimodal Named Entity Recognition for Short Social Media Posts**. NAACL 2018. [[paper]](https://aclanthology.org/N18-1078.pdf)
 
 
 ### 3.2 Multi-Modal Category-Oriented Sentiment Classification
@@ -402,10 +402,12 @@ maintained by Rui Xia, Jianfei Yu, and Hongjie Cai from Text Mining Group of Nan
 
 
 ### 3.3 Multi-Modal Aspect-Oriented Sentiment Classification
-1. Jianfei Yu, Jieming Wang, Rui Xia and Junjie Li. **Targeted Multimodal Sentiment Classification based on Coarse-to-Fine Grained Image-Target Matching**. IJCAI 2022. [[paper]](https://www.ijcai.org/proceedings/2022/0622.pdf)
-2. Zaid Khan and Yun Fu. **Exploiting BERT For Multimodal Target Sentiment Classification Through Input Space Translation**. ACM MM 2021 [[paper]](https://arxiv.org/pdf/2108.01682.pdf) [[code]](https://github.com/codezakh/exploiting-BERT-thru-translation)
-3. Jianfei Yu, Jing Jiang and Rui Xia. **Entity-Sensitive Attention and Fusion Network for Entity-Level Multimodal Sentiment Classification**. IEEE/ACM TASLP 2020. [[paper]](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=6507&context=sis_research)
-4. Jianfei Yu and Jing Jiang. **Adapting BERT for Target-Oriented Multimodal Sentiment Classification**. IJCAI 2019. [[paper]](https://www.ijcai.org/Proceedings/2019/0751.pdf) [[code]](https://github.com/jefferyYu/TomBERT)
+1. Zhen Li, Bing Xu, Conghui Zhu, and Tiejun Zhao. **CLMLF: A Contrastive Learning and Multi-Layer Fusion Method for Multimodal Sentiment Detection**. NAACL 2022 Findings. [[paper]](https://aclanthology.org/2022.findings-naacl.175.pdf)
+2. Jianfei Yu, Jieming Wang, Rui Xia and Junjie Li. **Targeted Multimodal Sentiment Classification based on Coarse-to-Fine Grained Image-Target Matching**. IJCAI 2022. [[paper]](https://www.ijcai.org/proceedings/2022/0622.pdf)
+3. Zaid Khan and Yun Fu. **Exploiting BERT For Multimodal Target Sentiment Classification Through Input Space Translation**. ACM MM 2021 [[paper]](https://arxiv.org/pdf/2108.01682.pdf) [[code]](https://github.com/codezakh/exploiting-BERT-thru-translation)
+4. Zhe Zhang, Zhu Wang, Xiaona Li, Nannan Liu, Bin Guo, and Zhiwen Yu. **ModalNet: an aspect-level sentiment classification model by exploring multimodal data with fusion discriminant attentional network**. World Wide Web. [[paper]](https://link.springer.com/article/10.1007/s11280-021-00955-7) 
+5. Jianfei Yu, Jing Jiang and Rui Xia. **Entity-Sensitive Attention and Fusion Network for Entity-Level Multimodal Sentiment Classification**. IEEE/ACM TASLP 2020. [[paper]](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=6507&context=sis_research)
+6. Jianfei Yu and Jing Jiang. **Adapting BERT for Target-Oriented Multimodal Sentiment Classification**. IJCAI 2019. [[paper]](https://www.ijcai.org/Proceedings/2019/0751.pdf) [[code]](https://github.com/jefferyYu/TomBERT)
 
 ### 3.4 Multi-Modal Aspect-Sentiment Pair Extraction
 1. Yan Ling, Jianfei Yu, and Rui Xia. **Vision-Language Pre-Training for Multimodal Aspect-Based Sentiment Analysis**. [[paper]](https://aclanthology.org/2022.acl-long.152.pdf) [[code]](https://github.com/NUSTM/VLP-MABSA)
