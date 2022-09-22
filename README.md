@@ -162,6 +162,8 @@ maintained by Rui Xia, Jianfei Yu, and Hongjie Cai from Text Mining Group of Nan
 
 1. Ehsan Hosseini-Asl, Wenhao Liu, Caiming Xiong. **A Generative Language Model for Few-shot Aspect-Based Sentiment Analysis**. NAACL Findings 2022. [[paper]](https://aclanthology.org/2022.findings-naacl.58.pdf) [[code]](https://github.com/salesforce/fewshot_absa)
 
+1. Chang-You Tai, Ming-Yao Li, Lun-Wei Ku. **Hyperbolic Disentangled Representation for Fine-Grained Aspect Extraction**. AAAI 2022. [[paper]](https://www.aaai.org/AAAI22Papers/AAAI-6574.TaiCY.pdf) [[code]](https://github.com/johnnyjana730/HDAE/)
+
 1. Qianlong Wang, Zhiyuan Wen, Qin Zhao, Min Yang, Ruifeng Xu. **Progressive Self-Training with Discriminator for Aspect Term Extraction**. EMNLP 2021. [[paper]](https://aclanthology.org/2021.emnlp-main.23/) [[code]](https://github.com/qlwang25/progressive_self_training)
 
 1. Zhuang Chen, Tieyun Qian. **Bridge-Based Active Domain Adaptation for Aspect Term Extraction**. ACL 2021. [[paper]](https://aclanthology.org/2021.acl-long.27.pdf)
