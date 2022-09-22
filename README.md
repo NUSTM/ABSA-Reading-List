@@ -36,6 +36,20 @@ maintained by Rui Xia, Jianfei Yu, and Hongjie Cai from Text Mining Group of Nan
  ## 1. ABSA
  ### 1.1 Aspect-Oriented Sentiment Classification
 
+1. Jiahao Cao, Rui Liu, Huailiang Peng, Lei Jiang, Xu Bai. **Aspect Is Not You Need: No-aspect Differential Sentiment Framework for Aspect-based Sentiment Analysis**. NAACL 2022. [[paper]](https://aclanthology.org/2022.naacl-main.115.pdf)
+
+1. Zheng Zhang, Zili Zhou, Yanna Wang. **SSEGCN: Syntactic and Semantic Enhanced Graph Convolutional Network for Aspect-based Sentiment Analysis**. NAACL 2022. [[paper]](https://aclanthology.org/2022.naacl-main.362.pdf) [[code]](https://github.com/zhangzheng1997/ssegcn-absa)
+
+1. Ehsan Hosseini-Asl, Wenhao Liu, Caiming Xiong. **A Generative Language Model for Few-shot Aspect-Based Sentiment Analysis**. NAACL Findings 2022. [[paper]](https://aclanthology.org/2022.findings-naacl.58.pdf) [[code]](https://github.com/salesforce/fewshot_absa)
+
+1. Chenhua Chen, Zhiyang Teng, Zhongqing Wang and Yue Zhang. **Discrete Opinion Tree Induction for Aspect-based Sentiment Analysis**. ACL 2022. [[paper]](https://aclanthology.org/2022.acl-long.145.pdf) [[code]](https://aclanthology.org/attachments/2022.acl-long.145.software.zip)
+
+1. Yiming Zhang, Min Zhang, Sai Wu, Junbo Zhao (Jake) . **Towards Unifying the Label Space for Aspect- and Sentence-based Sentiment Analysis**. ACL Findings 2022. [[paper]](https://aclanthology.org/2022.findings-acl.3.pdf)[[code]](https://github.com/yiming-zh/DPL)
+
+1. Shuo Liang, Wei Wei, , Xian-Ling Mao, Fei Wang, Zhiyong He. **BiSyn-GAT+: Bi-Syntax Aware Graph Attention Network for Aspect-based Sentiment Analysis**. ACL  Findings 2022. [[paper]](https://aclanthology.org/2022.findings-acl.144.pdf)[[code]](https://github.com/CCIIPLab/BiSyn_GAT_plus)
+
+1. Kai Zhang, Kun Zhang, Mengdi Zhang, Hongke Zhao, Qi Liu, Wei Wu, Enhong Chen. **Incorporating Dynamic Semantics into Pre-Trained Language Model for Aspect-based Sentiment Analysis**. ACL  Findings 2022. [[paper]](https://aclanthology.org/2022.findings-acl.285.pdf)
+
 1. Bo Wang, Tao Shen, Guodong Long, Tianyi Zhou, Yi Chang. **Eliminating Sentiment Bias for Aspect-Level Sentiment Classification with Unsupervised Opinion Extraction**. EMNLP Findings 2021. [[paper]](https://aclanthology.org/2021.findings-emnlp.258/) [[code]](https://github.com/wangbo9719/SARL_ABSA)
 
 1. Zeguan Xiao, Jiarun Wu, Qingliang Chen, Congjian Deng. **BERT4GCN: Using BERT Intermediate Layers to Augment GCN for Aspect-based Sentiment Classification**. EMNLP 2021. [[paper]](https://aclanthology.org/2021.emnlp-main.724/)
@@ -146,6 +160,8 @@ maintained by Rui Xia, Jianfei Yu, and Hongjie Cai from Text Mining Group of Nan
 
 ### 1.2 Aspect Extraction
 
+1. Ehsan Hosseini-Asl, Wenhao Liu, Caiming Xiong. **A Generative Language Model for Few-shot Aspect-Based Sentiment Analysis**. NAACL Findings 2022. [[paper]](https://aclanthology.org/2022.findings-naacl.58.pdf) [[code]](https://github.com/salesforce/fewshot_absa)
+
 1. Qianlong Wang, Zhiyuan Wen, Qin Zhao, Min Yang, Ruifeng Xu. **Progressive Self-Training with Discriminator for Aspect Term Extraction**. EMNLP 2021. [[paper]](https://aclanthology.org/2021.emnlp-main.23/) [[code]](https://github.com/qlwang25/progressive_self_training)
 
 1. Zhuang Chen, Tieyun Qian. **Bridge-Based Active Domain Adaptation for Aspect Term Extraction**. ACL 2021. [[paper]](https://aclanthology.org/2021.acl-long.27.pdf)
@@ -186,6 +202,8 @@ maintained by Rui Xia, Jianfei Yu, and Hongjie Cai from Text Mining Group of Nan
 
 ### 1.4 Category Detection
 
+1. Ehsan Hosseini-Asl, Wenhao Liu, Caiming Xiong. **A Generative Language Model for Few-shot Aspect-Based Sentiment Analysis**. NAACL Findings 2022. [[paper]](https://aclanthology.org/2022.findings-naacl.58.pdf) [[code]](https://github.com/salesforce/fewshot_absa)
+
 1. Thi-Nhung Nguyen, Kiem-Hieu Nguyen, Young-In Song, Tuan-Dung Cao. **An Uncertainty-Aware Encoder for Aspect Detection**. EMNLP Findings 2021. [[paper]](https://aclanthology.org/2021.findings-emnlp.69/) 
  
 1. Jian Liu, Zhiyang Teng, Leyang Cui, Hanmeng Liu, Yue Zhang. **Solving Aspect Category Sentiment Analysis as a Text Generation Task**. EMNLP 2021. [[paper]](https://aclanthology.org/2021.emnlp-main.361/) [[code]](https://github.com/lgw863/ACSA-generation)
@@ -206,6 +224,10 @@ maintained by Rui Xia, Jianfei Yu, and Hongjie Cai from Text Mining Group of Nan
 1. Pengfei Liu, Shafiq Joty, Helen Meng. **Fine-grained Opinion Mining with Recurrent Neural Networks and Word Embeddings**. EMNLP 2015. [[paper]](https://aclanthology.org/D15-1168.pdf)
 
 ### 1.6 Aspect-Oriented Opinion Extraction
+
+1. Junjie Li, Jianfei Yu, and Rui Xia. **Generative Cross-Domain Data Augmentation for Aspect and Opinion Co-Extraction**. NAACL 2022. [[paper]](https://aclanthology.org/2022.naacl-main.312.pdf) [[code]](https://github.com/nustm/gcdda)
+
+1. Yue Mao, Yi Shen, Jingchao Yang, Xiaoying Zhu, Longjun Cai. **Seq2Path: Generating Sentiment Tuples as Paths of a Tree**. ACL Findings 2022. [[paper]](https://aclanthology.org/2022.findings-acl.174.pdf)[[code]](https://aclanthology.org/attachments/2022.findings-acl.174.software.zip)
 
 1. Samuel Mensah, Kai Sun, Nikolaos Aletras. **An Empirical Study on Leveraging Position Embeddings for Target-oriented Opinion Words Extraction**. EMNLP 2021. [[paper]](https://aclanthology.org/2021.emnlp-main.722/) [[code]](https://github.com/samensah/Encoders_TOWE_EMNLP2021)
 
@@ -228,6 +250,10 @@ maintained by Rui Xia, Jianfei Yu, and Hongjie Cai from Text Mining Group of Nan
 
 
 ### 1.8 Aspect-Sentiment Pair Extraction
+
+1. Ehsan Hosseini-Asl, Wenhao Liu, Caiming Xiong. **A Generative Language Model for Few-shot Aspect-Based Sentiment Analysis**. NAACL Findings 2022. [[paper]](https://aclanthology.org/2022.findings-naacl.58.pdf) [[code]](https://github.com/salesforce/fewshot_absa)
+
+1. Lei Shu, Jiahua Chen, Bing Liu, Hu Xu. **Zero-Shot Aspect-Based Sentiment Analysis**. ArXiv 2022. [[paper]](https://arxiv.org/abs/2202.01924)
 
 1. Wenxuan Zhang, Yang Deng, Xin Li, Lidong Bing, Wai Lam. **Aspect-based Sentiment Analysis in Question Answering Forums**. EMNLP Findings 2021. [[paper]](https://aclanthology.org/2021.findings-emnlp.390/) [[code]](https://github.com/IsakZhang/ABSA-QA)
 
@@ -315,6 +341,14 @@ maintained by Rui Xia, Jianfei Yu, and Hongjie Cai from Text Mining Group of Nan
 
 ### 1.12 Aspect-Opinion-Sentiment Triple Extraction
 
+1. Yue Mao, Yi Shen, Jingchao Yang, Xiaoying Zhu, Longjun Cai. **Seq2Path: Generating Sentiment Tuples as Paths of a Tree**. ACL Findings 2022. [[paper]](https://aclanthology.org/2022.findings-acl.174.pdf) [[code]](https://aclanthology.org/attachments/2022.findings-acl.174.software.zip)
+
+1. Shu Liu, Kaiwen Li, Zuhe Li. **A Robustly Optimized BMRC for Aspect Sentiment Triplet Extraction**. NAACL 2022. [[paper]](https://aclanthology.org/2022.naacl-main.20.pdf)[[code]](https://github.com/itkaven/robmrc)
+
+1. Hao Chen, Zepeng Zhai, Fangxiang Feng, Ruifan Li, Xiaojie Wang. **Enhanced Multi-Channel Graph Convolutional Network for Aspect Sentiment Triplet Extraction**. ACL 2022. [[paper]](https://aclanthology.org/2022.acl-long.212.pdf)[[code]](https://github.com/ccchenhao997/emcgcn-aste)
+
+1. Hao Fei, Fei Li, Chenliang Li, Shengqiong Wu, Jingye Li, Donghong Ji. **Inheriting the Wisdom of Predecessors: A Multiplex Cascade Framework for Unified Aspect-based Sentiment Analysis**. IJCAI 2022 [[paper]](https://www.ijcai.org/proceedings/2022/0572.pdf)
+
 1. Rajdeep Mukherjee, Tapas Nayak, Yash Butala, Sourangshu Bhattacharya, Pawan Goyal. **PASTE: A Tagging-Free Decoding Framework Using Pointer Networks for Aspect Sentiment Triplet Extraction**. EMNLP 2021. [[paper]](https://aclanthology.org/2021.emnlp-main.731/) [[code]](https://github.com/rajdeep345/PASTE/)
 
 1. Hongjiang Jing, Zuchao Li, Hai Zhao, Shu Jiang. **Seeking Common but Distinguishing Difference, A Joint Aspect-based Sentiment Analysis Model**. EMNLP 2021. [[paper]](https://aclanthology.org/2021.emnlp-main.318/) 
@@ -340,6 +374,10 @@ maintained by Rui Xia, Jianfei Yu, and Hongjie Cai from Text Mining Group of Nan
 1. Minqing Hu, Bing Liu. **Mining and Summarizing Customer Reviews**. KDD 2004. [[paper]](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.222.9730&rep=rep1&type=pdf)
 
 ### 1.13 Aspect-Category-Opinion-Sentiment Quadruple Extraction
+
+1. Yue Mao, Yi Shen, Jingchao Yang, Xiaoying Zhu, Longjun Cai. **Seq2Path: Generating Sentiment Tuples as Paths of a Tree**. ACL  Findings 2022. [[paper]](https://aclanthology.org/2022.findings-acl.174.pdf)[[code]](https://aclanthology.org/attachments/2022.findings-acl.174.software.zip)
+
+1. Xiaoyi Bao, Wang Zhongqing, Xiaotong Jiang, Rong Xiao, Shoushan Li. **Aspect-based Sentiment Analysis with Opinion Tree Generation**. IJCAI 2022. [[paper]](https://www.ijcai.org/proceedings/2022/0561.pdf)
 
 1. Hongjie Cai, Rui Xia, Jianfei Yu. **Aspect-Category-Opinion-Sentiment Quadruple Extraction with Implicit Aspects and Opinions**. ACL 2021. [[paper]](https://aclanthology.org/2021.acl-long.29.pdf) [[code & data]](https://github.com/NUSTM/ACOS) ![](https://img.shields.io/badge/-The%20first%20work%20introducing%20the%20ABSA%20Quadruple%20Extraction%20task-red)
 
