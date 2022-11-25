@@ -440,6 +440,7 @@ maintained by Rui Xia, Jianfei Yu, and Hongjie Cai from Text Mining Group of Nan
 3. Nan Xu, Wenji Mao, and Guandan Chen. **Multi-interactive Memory Network for Aspect Based Multimodal Sentiment Analysis**. AAAI 2019. [[paper]](https://ojs.aaai.org//index.php/AAAI/article/view/3807) [[code]](https://github.com/xunan0812/MIMN)
 
 
+
 ### 3.3 Multi-Modal Aspect-Oriented Sentiment Classification
 1. Zhen Li, Bing Xu, Conghui Zhu, and Tiejun Zhao. **CLMLF: A Contrastive Learning and Multi-Layer Fusion Method for Multimodal Sentiment Detection**. NAACL 2022 Findings. [[paper]](https://aclanthology.org/2022.findings-naacl.175.pdf)
 2. Jianfei Yu, Jieming Wang, Rui Xia and Junjie Li. **Targeted Multimodal Sentiment Classification based on Coarse-to-Fine Grained Image-Target Matching**. IJCAI 2022. [[paper]](https://www.ijcai.org/proceedings/2022/0622.pdf)
