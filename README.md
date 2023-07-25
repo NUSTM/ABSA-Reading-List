@@ -253,7 +253,7 @@ maintained by Rui Xia, Jianfei Yu, and Hongjie Cai from Text Mining Group of Nan
 
 ### 1.8 Aspect-Sentiment Pair Extraction
 
-1. Zengzhi Wang, Qiming Xie, Rui Xia. **	A Simple yet Effective Framework for Few-Shot Aspect-Based Sentiment Analysis**. SIGIR 2023. [[paper]](https://dl.acm.org/doi/10.1145/3539618.3591940) [[code]](https://github.com/NUSTM/FS-ABSA)
+1. Zengzhi Wang, Qiming Xie, Rui Xia. **A Simple yet Effective Framework for Few-Shot Aspect-Based Sentiment Analysis**. SIGIR 2023. [[paper]](https://dl.acm.org/doi/10.1145/3539618.3591940) [[code]](https://github.com/NUSTM/FS-ABSA)
 
 1. Ehsan Hosseini-Asl, Wenhao Liu, Caiming Xiong. **A Generative Language Model for Few-shot Aspect-Based Sentiment Analysis**. NAACL Findings 2022. [[paper]](https://aclanthology.org/2022.findings-naacl.58.pdf) [[code]](https://github.com/salesforce/fewshot_absa)
 
