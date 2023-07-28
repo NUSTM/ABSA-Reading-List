@@ -410,12 +410,16 @@ maintained by Rui Xia, Jianfei Yu, and Hongjie Cai from Text Mining Group of Nan
 
 
 ### 2.4 Cross-Domain Aspect-Sentiment Pair Extraction
-1. Jianfei Yu, Chenggong Gong, and Rui Xia. **Cross-Domain Review Generation for Aspect-Based Sentiment Analysis**. ACL 2021，Findings. [[paper]](https://aclanthology.org/2021.findings-acl.421.pdf) [[code]](https://github.com/NUSTM/CDRG)
+1. Jianfei Yu, Qiankun Zhao, and Rui Xia. **Cross-Domain Data Augmentation with Domain-Adaptive Language Modeling for Aspect-Based Sentiment Analysis**. In ACL 2023. [[paper]](https://aclanthology.org/2023.acl-long.81.pdf)
+2. Jianfei Yu, Chenggong Gong, and Rui Xia. **Cross-Domain Review Generation for Aspect-Based Sentiment Analysis**. ACL 2021，Findings. [[paper]](https://aclanthology.org/2021.findings-acl.421.pdf) [[code]](https://github.com/NUSTM/CDRG)
 1. Yan Zhou, Fuqing Zhu, Pu Song, Jizhong Han, Tao Guo, and Songlin Hu. **An Adaptive Hybrid Framework for Cross-domain Aspect-based Sentiment Analysis**. AAAI 2021. [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/17719)
 1. Chenggong Gong, Jianfei Yu, and Rui Xia. **Unified Feature and Instance Based Domain Adaptation for Aspect-Based Sentiment Analysis**. EMNLP 2020. [[paper]](https://www.aclweb.org/anthology/2020.emnlp-main.572.pdf) [[code]](https://github.com/NUSTM/BERT-UDA)
-1. Zheng Li, Xin Li, Ying Wei, Lidong Bing, Yu Zhang and Qiang Yang. **Transferable End-to-End Aspect-based Sentiment Analysis with Selective Adversarial Learning**. EMNLP 2019. [[paper]](https://arxiv.org/abs/1910.14192) 
- 
- ## 3. Multi-Modal ABSA
+1. Zheng Li, Xin Li, Ying Wei, Lidong Bing, Yu Zhang and Qiang Yang. **Transferable End-to-End Aspect-based Sentiment Analysis with Selective Adversarial Learning**. EMNLP 2019. [[paper]](https://arxiv.org/abs/1910.14192)
+
+### 2.5 Cross-Domain Aspect-Sentiment Triple Extraction
+1. Yue Deng, Wenxuan Zhang, Sinno Jialin Pan, and Lidong Bing. **Bidirectional Generative Framework for Cross-domain Aspect-based Sentiment Analysis**. In ACL 2023. [[paper]](https://arxiv.org/pdf/2305.09509.pdf) 
+
+## 3. Multi-Modal ABSA
  
 ### 3.1 Multi-Modal Aspect Extraction (& Multi-Modal Named Entity Recognition)
 1. Xinyu Wang, Jiong Cai, Yong Jiang, Pengjun Xie, Kewei Tu and Wei Lu. **Named Entity and Relation Extraction with Multi-Modal Retrieval**. EMNLP 2022 Findings
@@ -467,9 +471,12 @@ analysis**. KBS 2022 [[paper]](https://www.sciencedirect.com/science/article/pii
 6. Jianfei Yu and Jing Jiang. **Adapting BERT for Target-Oriented Multimodal Sentiment Classification**. IJCAI 2019. [[paper]](https://www.ijcai.org/Proceedings/2019/0751.pdf) [[code]](https://github.com/jefferyYu/TomBERT)
 
 ### 3.4 Multi-Modal Aspect-Sentiment Pair Extraction
-1. Ru Zhou, Wenya Guo, Xumeng Liu, Shenglong Yu, Ying Zhang, and Xiaojie Yuan. AoM: Detecting Aspect-oriented Information for Multimodal Aspect-Based Sentiment Analysis. Findings of ACL 2023. [[paper]](https://arxiv.org/pdf/2306.01004.pdf) [[code]](https://github.com/SilyRab/AoM)
-2. Xiaocui Yang, Shi Feng, Daling Wang, Sun Qi, Wenfang Wu, Yifei Zhang, Pengfei Hong, and Soujanya Poria. Few-shot Joint Multimodal Aspect-Sentiment Analysis Based on Generative Multimodal Prompt. Findings of ACL 2023. [[paper]](https://arxiv.org/pdf/2305.10169.pdf) [[code]](https://github.com/YangXiaocui1215/GMP)
-3. Zhewen Yu, Jin Wang, Liang-Chih Yu, and Xuejie Zhang. Dual-Encoder Transformers with Cross-modal Alignment for Multimodal Aspect-based Sentiment Analysis. AACL-IJCNLP 2022. [[paper]](https://aclanthology.org/2022.aacl-main.32.pdf) [[code]](https://github.com/windforfurture/DTCA)
-4. Li Yang, Jin-Cheon Na, and Jianfei Yu. Cross-Modal Multitask Transformer for End-to-End Multimodal Aspect-Based Sentiment Analysis. Information Processing and Management, 59(5), 103038, 2022. [[paper]](https://www.sciencedirect.com/science/article/pii/S0306457322001479?via%3Dihub) [[code]](https://github.com/yangli-hub/CMMT-Code)
+1. Ru Zhou, Wenya Guo, Xumeng Liu, Shenglong Yu, Ying Zhang, and Xiaojie Yuan. **AoM: Detecting Aspect-oriented Information for Multimodal Aspect-Based Sentiment Analysis**. Findings of ACL 2023. [[paper]](https://arxiv.org/pdf/2306.01004.pdf) [[code]](https://github.com/SilyRab/AoM)
+2. Xiaocui Yang, Shi Feng, Daling Wang, Sun Qi, Wenfang Wu, Yifei Zhang, Pengfei Hong, and Soujanya Poria. **Few-shot Joint Multimodal Aspect-Sentiment Analysis Based on Generative Multimodal Prompt**. Findings of ACL 2023. [[paper]](https://arxiv.org/pdf/2305.10169.pdf) [[code]](https://github.com/YangXiaocui1215/GMP)
+3. Zhewen Yu, Jin Wang, Liang-Chih Yu, and Xuejie Zhang. **Dual-Encoder Transformers with Cross-modal Alignment for Multimodal Aspect-based Sentiment Analysis**. AACL-IJCNLP 2022. [[paper]](https://aclanthology.org/2022.aacl-main.32.pdf) [[code]](https://github.com/windforfurture/DTCA)
+4. Li Yang, Jin-Cheon Na, and Jianfei Yu. **Cross-Modal Multitask Transformer for End-to-End Multimodal Aspect-Based Sentiment Analysis**. Information Processing and Management, 59(5), 103038, 2022. [[paper]](https://www.sciencedirect.com/science/article/pii/S0306457322001479?via%3Dihub) [[code]](https://github.com/yangli-hub/CMMT-Code)
 5. Yan Ling, Jianfei Yu, and Rui Xia. **Vision-Language Pre-Training for Multimodal Aspect-Based Sentiment Analysis**. ACL 2022. [[paper]](https://aclanthology.org/2022.acl-long.152.pdf) [[code]](https://github.com/NUSTM/VLP-MABSA)
 6. Xincheng Ju,  Dong Zhang,  Rong Xiao,  Junhui Li, Shoushan Li, Min Zhang, and Guodong Zhou. **Joint Multi-Modal Aspect-Sentiment Analysis with Auxiliary Cross-Modal Relation  Detection**. EMNLP 2021 [[paper]](https://aclanthology.org/2021.emnlp-main.360.pdf) [[code]](https://github.com/MANLP-suda/JML)
+
+### 3.5 Multi-Modal Aspect/Entity-Category-Sentiment Triple Extraction
+1. Li Yang, Jieming Wang, Jin-Cheon Na, and Jianfei Yu. **Generating Paraphrase Sentences for Multimodal Entity-Category-Sentiment Triple Extraction**. To appear in Knowledge-Based Systems, 2023.
