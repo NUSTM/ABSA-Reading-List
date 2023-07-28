@@ -27,11 +27,13 @@ maintained by Rui Xia, Jianfei Yu, and Hongjie Cai from Text Mining Group of Nan
   - [2.2 Cross-Domain Aspect-Opinion Co-Extraction](#22-cross-domain-aspect-opinion-co-extraction)
   - [2.3 Cross-Domain Aspect-Oriented Sentiment Classification](#23-cross-domain-aspect-oriented-sentiment-classification)
   - [2.4 Cross-Domain Aspect-Sentiment Pair Extraction](#24-cross-domain-aspect-sentiment-pair-extraction)
+  - [2.5 Cross-Domain Aspect-Opinion-Sentiment Triple Extraction](#25-cross-domain-aspect-opinion-sentiment-triple-extraction)
 - [3. Multi-Modal ABSA](#3-multi-modal-absa)
   - [3.1 Multi-Modal Aspect Extraction (& Multi-Modal Named Entity Recognition)](#31-multi-modal-aspect-extraction--multi-modal-named-entity-recognition)
   - [3.2 Multi-Modal Category-Oriented Sentiment Classification](#32-multi-modal-category-oriented-sentiment-classification)
   - [3.3 Multi-Modal Aspect-Oriented Sentiment Classification](#33-multi-modal-aspect-oriented-sentiment-classification)
   - [3.4 Multi-Modal Aspect-Sentiment Pair Extraction](#34-multi-modal-aspect-sentiment-pair-extraction)
+  - [3.5 Multi-Modal Aspect/Entity-Category-Sentiment Triple Extraction](#35-multi-modal-aspect/entity-category-sentiment-pair-extraction)
 
  ## 1. ABSA
  ### 1.1 Aspect-Oriented Sentiment Classification
@@ -416,7 +418,7 @@ maintained by Rui Xia, Jianfei Yu, and Hongjie Cai from Text Mining Group of Nan
 1. Chenggong Gong, Jianfei Yu, and Rui Xia. **Unified Feature and Instance Based Domain Adaptation for Aspect-Based Sentiment Analysis**. EMNLP 2020. [[paper]](https://www.aclweb.org/anthology/2020.emnlp-main.572.pdf) [[code]](https://github.com/NUSTM/BERT-UDA)
 1. Zheng Li, Xin Li, Ying Wei, Lidong Bing, Yu Zhang and Qiang Yang. **Transferable End-to-End Aspect-based Sentiment Analysis with Selective Adversarial Learning**. EMNLP 2019. [[paper]](https://arxiv.org/abs/1910.14192)
 
-### 2.5 Cross-Domain Aspect-Sentiment Triple Extraction
+### 2.5 Cross-Domain Aspect-Opinion-Sentiment Triple Extractio
 1. Yue Deng, Wenxuan Zhang, Sinno Jialin Pan, and Lidong Bing. **Bidirectional Generative Framework for Cross-domain Aspect-based Sentiment Analysis**. In ACL 2023. [[paper]](https://arxiv.org/pdf/2305.09509.pdf) 
 
 ## 3. Multi-Modal ABSA
