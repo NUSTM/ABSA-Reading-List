@@ -418,7 +418,7 @@ maintained by Rui Xia, Jianfei Yu, and Hongjie Cai from Text Mining Group of Nan
 1. Chenggong Gong, Jianfei Yu, and Rui Xia. **Unified Feature and Instance Based Domain Adaptation for Aspect-Based Sentiment Analysis**. EMNLP 2020. [[paper]](https://www.aclweb.org/anthology/2020.emnlp-main.572.pdf) [[code]](https://github.com/NUSTM/BERT-UDA)
 1. Zheng Li, Xin Li, Ying Wei, Lidong Bing, Yu Zhang and Qiang Yang. **Transferable End-to-End Aspect-based Sentiment Analysis with Selective Adversarial Learning**. EMNLP 2019. [[paper]](https://arxiv.org/abs/1910.14192)
 
-### 2.5 Cross-Domain Aspect-Opinion-Sentiment Triple Extractio
+### 2.5 Cross-Domain Aspect-Opinion-Sentiment Triple Extraction
 1. Yue Deng, Wenxuan Zhang, Sinno Jialin Pan, and Lidong Bing. **Bidirectional Generative Framework for Cross-domain Aspect-based Sentiment Analysis**. In ACL 2023. [[paper]](https://arxiv.org/pdf/2305.09509.pdf) 
 
 ## 3. Multi-Modal ABSA
