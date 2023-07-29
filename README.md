@@ -481,4 +481,4 @@ analysis**. KBS 2022 [[paper]](https://www.sciencedirect.com/science/article/pii
 6. Xincheng Ju,  Dong Zhang,  Rong Xiao,  Junhui Li, Shoushan Li, Min Zhang, and Guodong Zhou. **Joint Multi-Modal Aspect-Sentiment Analysis with Auxiliary Cross-Modal Relation  Detection**. EMNLP 2021 [[paper]](https://aclanthology.org/2021.emnlp-main.360.pdf) [[code]](https://github.com/MANLP-suda/JML)
 
 ### 3.5 Multi-Modal Aspect/Entity-Category-Sentiment Triple Extraction
-1. Li Yang, Jieming Wang, Jin-Cheon Na, and Jianfei Yu. **Generating Paraphrase Sentences for Multimodal Entity-Category-Sentiment Triple Extraction**. To appear in Knowledge-Based Systems, 2023.
+1. Li Yang, Jieming Wang, Jin-Cheon Na, and Jianfei Yu. **Generating Paraphrase Sentences for Multimodal Entity-Category-Sentiment Triple Extraction**. In Knowledge-Based Systems, 2023. [[paper]](https://www.sciencedirect.com/science/article/pii/S0950705123005737)
